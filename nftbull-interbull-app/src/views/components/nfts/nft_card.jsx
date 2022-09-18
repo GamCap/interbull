@@ -40,20 +40,16 @@ function getHexFromNFT(trade_data) {
 }
 
 export default function NFTCard({ nft }) {
-	console.log(outbox_abi);
 	const { config, error } = usePrepareContractWrite({
 		chainId: 43113,
-		addressOrName: '0xb94925F31ADA788108FaF7DBAF8ce649377ab7Be'.toLowerCase(),
-		contractInterface: cross_vault_abi,
-		functionName: 'dispatchCall',
-		args: [0, '0x0000000000000000000000007c5b5bda7f1d1f70a6678abb4d894612fc76498f'],
+		addressOrName: '0xc507A7c848b59469cC44A3653F8a582aa8BeC71E'.toLowerCase(),
+		contractInterface: outbox_abi,
+		functionName: 'dispatch',
+		args: [5, '0x000000000000000000000000576834fC77837E0B04c58FBE9A97Eb38E59B3932', getHexFromNFT(nft?.listing)],
 	});
-	const { data, isLoading, isSuccess, write } = useContractWrite(config);
+	const { write } = useContractWrite(config);
 
-	function buy(priceInWETH, message) {
-		config.args = [priceInWETH, message];
-
-		console.log(data, isLoading, isSuccess, write);
+	function buy() {
 		write?.();
 	}
 	return (
@@ -73,7 +69,12 @@ export default function NFTCard({ nft }) {
 					<img src={require('../../../assets/img/eth.png')} alt="" className="flex-shrink-0 h-4 w-4" />
 					<p className="text-base font-medium text-gray-900">{nft?.price}</p>
 				</div>
-				<button onClick={() => buy(nft.price * 10 ** 18, getHexFromNFT(nft?.listing))}>Buy</button>
+				<button
+					className="mt-6 w-full rounded-md border border-transparent bg-gray-600 py-2 px-4 text-sm font-medium text-white shadow-sm hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-gray-500 focus:ring-offset-2"
+					onClick={() => buy()}
+				>
+					Buy
+				</button>
 			</div>
 		</div>
 	);
