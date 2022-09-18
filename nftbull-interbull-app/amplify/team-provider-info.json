@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-gamcapweb-staging-231417-authRole",
+      "UnauthRoleArn": "arn:aws:iam::603619467281:role/amplify-gamcapweb-staging-231417-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::603619467281:role/amplify-gamcapweb-staging-231417-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-gamcapweb-staging-231417-deployment",
+      "UnauthRoleName": "amplify-gamcapweb-staging-231417-unauthRole",
+      "StackName": "amplify-gamcapweb-staging-231417",
+      "StackId": "arn:aws:cloudformation:eu-central-1:603619467281:stack/amplify-gamcapweb-staging-231417/d3f663e0-92a2-11ec-8c61-0640f52921a0",
+      "AmplifyAppId": "d3a91h8iz44cqo"
+    }
+  }
+}

@@ -1,0 +1,3628 @@
+[
+	{
+		"chain": "ETH",
+		"media": [
+			{
+				"raw": "https://res.cloudinary.com/manifoldxyz/image/upload/v1663463550/98e9d0959896593e823be8934871f233f4cee29401b1990eced2ecc1a6dc1360.png",
+				"gateway": "https://res.cloudinary.com/manifoldxyz/image/upload/v1663463550/98e9d0959896593e823be8934871f233f4cee29401b1990eced2ecc1a6dc1360.png"
+			}
+		],
+		"title": "Bull in Berlin #1",
+		"token_uri_gateway": "https://studio.api.manifoldxyz.dev/asset_uploader/series/2282272943/metadata/full/1",
+		"token_uri_raw": "https://studio.api.manifoldxyz.dev/asset_uploader/series/2282272943/metadata/full/1",
+		"updated_at": "2022-09-18T02:16:19.914Z",
+		"name": "Bull in Berlin #1",
+		"image": "https://res.cloudinary.com/manifoldxyz/image/upload/v1663463550/98e9d0959896593e823be8934871f233f4cee29401b1990eced2ecc1a6dc1360.png",
+		"attributes": [
+			{
+				"trait_type": "Artist",
+				"value": "Voerch"
+			},
+			{
+				"trait_type": "Background",
+				"value": "Solid"
+			}
+		],
+		"description": "To the power of 3.",
+		"token_id": 1,
+		"token_type": "ERC721",
+		"address": "0x0de9db04578a41a19341240495c6894f5fc3f550",
+		"listed": true,
+		"price": 0.1,
+		"payment_token": "0x0000000000000000000000000000000000000000",
+		"listing": {
+			"created_date": "2022-09-18T01:33:16.461630",
+			"closing_date": "2022-10-18T01:31:06",
+			"listing_time": 1663464666,
+			"expiration_time": 1666056666,
+			"order_hash": "0x36e5fe7f07a50bef3a860ea03da459b479dfd662fd650aed52adb471f7a229c0",
+			"protocol_data": {
+				"parameters": {
+					"offerer": "0x9d0d6552288ba41aa852a9f3e11cc32a9b5254e0",
+					"offer": [
+						{
+							"itemType": 2,
+							"token": "0x0de9DB04578a41a19341240495C6894f5FC3f550",
+							"identifierOrCriteria": "1",
+							"startAmount": "1",
+							"endAmount": "1"
+						}
+					],
+					"consideration": [
+						{
+							"itemType": 0,
+							"token": "0x0000000000000000000000000000000000000000",
+							"identifierOrCriteria": "0",
+							"startAmount": "97500000000000000",
+							"endAmount": "97500000000000000",
+							"recipient": "0x9D0D6552288ba41AA852A9f3e11Cc32A9B5254e0"
+						},
+						{
+							"itemType": 0,
+							"token": "0x0000000000000000000000000000000000000000",
+							"identifierOrCriteria": "0",
+							"startAmount": "2500000000000000",
+							"endAmount": "2500000000000000",
+							"recipient": "0x0000a26b00c1F0DF003000390027140000fAa719"
+						}
+					],
+					"startTime": "1663464666",
+					"endTime": "1666056666",
+					"orderType": 0,
+					"zone": "0x0000000000000000000000000000000000000000",
+					"zoneHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+					"salt": "0x360c6ebe0000000000000000000000000000000000000000b702df2f4fa38aec",
+					"conduitKey": "0x0000007b02230091a7ed01230072f7006a004d60a8d4e71d599b8104250f0000",
+					"totalOriginalConsiderationItems": 2,
+					"counter": 0
+				},
+				"signature": "0x7e7e8d6ead87c6e02f689046bf24ce24d2bf8bd70324c6e8f3243e02dc8efb1646261cea0f22b4a35d767ce41ffddbba1a2c87680e665e29d46074568a046d561b"
+			},
+			"protocol_address": "0x00000000006c3852cbef3e08e8df289169ede581",
+			"maker": {
+				"user": 223228,
+				"profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/20.png",
+				"address": "0x9d0d6552288ba41aa852a9f3e11cc32a9b5254e0",
+				"config": ""
+			},
+			"taker": null,
+			"current_price": "100000000000000000",
+			"maker_fees": [
+				{
+					"account": {
+						"user": null,
+						"profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/29.png",
+						"address": "0x0000a26b00c1f0df003000390027140000faa719",
+						"config": ""
+					},
+					"basis_points": "250"
+				}
+			],
+			"taker_fees": [],
+			"side": "ask",
+			"order_type": "basic",
+			"cancelled": false,
+			"finalized": false,
+			"marked_invalid": false,
+			"client_signature": "0x7e7e8d6ead87c6e02f689046bf24ce24d2bf8bd70324c6e8f3243e02dc8efb1646261cea0f22b4a35d767ce41ffddbba1a2c87680e665e29d46074568a046d561b",
+			"relay_id": "T3JkZXJWMlR5cGU6ODI3OTEx",
+			"criteria_proof": null,
+			"maker_asset_bundle": {
+				"assets": [
+					{
+						"id": 127385484,
+						"num_sales": 0,
+						"background_color": null,
+						"image_url": "https://lh3.googleusercontent.com/Dc8BWQntaaH1NIQ3JbAZwTmMZjGgsnXqeGA9rDYtx5MWV82MMXWl3Hs6pdyI76PJ5akHDwvjdaMhRAqJg_FVGVNQOSQRS3Dh9YYtPw",
+						"image_preview_url": "https://lh3.googleusercontent.com/Dc8BWQntaaH1NIQ3JbAZwTmMZjGgsnXqeGA9rDYtx5MWV82MMXWl3Hs6pdyI76PJ5akHDwvjdaMhRAqJg_FVGVNQOSQRS3Dh9YYtPw=s250",
+						"image_thumbnail_url": "https://lh3.googleusercontent.com/Dc8BWQntaaH1NIQ3JbAZwTmMZjGgsnXqeGA9rDYtx5MWV82MMXWl3Hs6pdyI76PJ5akHDwvjdaMhRAqJg_FVGVNQOSQRS3Dh9YYtPw=s128",
+						"image_original_url": "https://res.cloudinary.com/manifoldxyz/image/upload/v1663463550/98e9d0959896593e823be8934871f233f4cee29401b1990eced2ecc1a6dc1360.png",
+						"animation_url": null,
+						"animation_original_url": null,
+						"name": "Bull in Berlin #1",
+						"description": "To the power of 3.",
+						"external_link": "https://www.nftbull.app/",
+						"asset_contract": {
+							"address": "0x0de9db04578a41a19341240495c6894f5fc3f550",
+							"asset_contract_type": "non-fungible",
+							"created_date": "2022-09-18T00:57:51.541453",
+							"name": "InterBull @ETHBerlin",
+							"nft_version": "3.0",
+							"opensea_version": null,
+							"owner": 13126291,
+							"schema_name": "ERC721",
+							"symbol": "BULL",
+							"total_supply": null,
+							"description": "Bull has arrived in Berlin!",
+							"external_link": null,
+							"image_url": "https://i.seadn.io/gcs/files/94e4c4012e457b22b4886618fd65a347.png?w=500&auto=format",
+							"default_to_fiat": false,
+							"dev_buyer_fee_basis_points": 0,
+							"dev_seller_fee_basis_points": 0,
+							"only_proxied_transfers": false,
+							"opensea_buyer_fee_basis_points": 0,
+							"opensea_seller_fee_basis_points": 250,
+							"buyer_fee_basis_points": 0,
+							"seller_fee_basis_points": 250,
+							"payout_address": null
+						},
+						"permalink": "https://testnets.opensea.io/assets/goerli/0x0de9db04578a41a19341240495c6894f5fc3f550/1",
+						"collection": {
+							"banner_image_url": "https://i.seadn.io/gcs/files/d927e889c520884bb433c850e7a13bf4.png?w=500&auto=format",
+							"chat_url": null,
+							"created_date": "2022-09-18T00:57:51.911734",
+							"default_to_fiat": false,
+							"description": "Bull has arrived in Berlin!",
+							"dev_buyer_fee_basis_points": "0",
+							"dev_seller_fee_basis_points": "0",
+							"discord_url": null,
+							"display_data": {
+								"card_display_style": "cover"
+							},
+							"external_url": null,
+							"featured": false,
+							"featured_image_url": "https://i.seadn.io/gcs/files/0be5c4c0609bcb8b8e5f93b011843a1a.png?w=500&auto=format",
+							"hidden": false,
+							"safelist_request_status": "not_requested",
+							"image_url": "https://i.seadn.io/gcs/files/94e4c4012e457b22b4886618fd65a347.png?w=500&auto=format",
+							"is_subject_to_whitelist": false,
+							"large_image_url": "https://i.seadn.io/gcs/files/0be5c4c0609bcb8b8e5f93b011843a1a.png?w=500&auto=format",
+							"medium_username": null,
+							"name": "InterBull at ETHBerlin",
+							"only_proxied_transfers": false,
+							"opensea_buyer_fee_basis_points": "0",
+							"opensea_seller_fee_basis_points": "250",
+							"payout_address": null,
+							"require_email": false,
+							"short_description": null,
+							"slug": "interbull-ethberlin",
+							"telegram_url": null,
+							"twitter_username": null,
+							"instagram_username": null,
+							"wiki_url": null,
+							"is_nsfw": false,
+							"fees": {
+								"seller_fees": {},
+								"opensea_fees": {
+									"0x0000a26b00c1f0df003000390027140000faa719": 250
+								}
+							},
+							"is_rarity_enabled": false
+						},
+						"decimals": null,
+						"token_metadata": "https://studio.api.manifoldxyz.dev/asset_uploader/series/2282272943/metadata/full/1",
+						"is_nsfw": false,
+						"owner": {
+							"user": null,
+							"profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+							"address": "0x0000000000000000000000000000000000000000",
+							"config": ""
+						},
+						"token_id": "1"
+					}
+				],
+				"maker": null,
+				"slug": null,
+				"name": null,
+				"description": null,
+				"external_link": null,
+				"asset_contract": {
+					"address": "0x0de9db04578a41a19341240495c6894f5fc3f550",
+					"asset_contract_type": "non-fungible",
+					"created_date": "2022-09-18T00:57:51.541453",
+					"name": "InterBull @ETHBerlin",
+					"nft_version": "3.0",
+					"opensea_version": null,
+					"owner": 13126291,
+					"schema_name": "ERC721",
+					"symbol": "BULL",
+					"total_supply": null,
+					"description": "Bull has arrived in Berlin!",
+					"external_link": null,
+					"image_url": "https://i.seadn.io/gcs/files/94e4c4012e457b22b4886618fd65a347.png?w=500&auto=format",
+					"default_to_fiat": false,
+					"dev_buyer_fee_basis_points": 0,
+					"dev_seller_fee_basis_points": 0,
+					"only_proxied_transfers": false,
+					"opensea_buyer_fee_basis_points": 0,
+					"opensea_seller_fee_basis_points": 250,
+					"buyer_fee_basis_points": 0,
+					"seller_fee_basis_points": 250,
+					"payout_address": null
+				},
+				"permalink": "https://testnets.opensea.io/bundles/None",
+				"seaport_sell_orders": null
+			},
+			"taker_asset_bundle": {
+				"assets": [
+					{
+						"id": 1507176,
+						"num_sales": 0,
+						"background_color": null,
+						"image_url": "https://openseauserdata.com/files/6f8e2979d428180222796ff4a33ab929.svg",
+						"image_preview_url": "https://openseauserdata.com/files/6f8e2979d428180222796ff4a33ab929.svg",
+						"image_thumbnail_url": "https://openseauserdata.com/files/6f8e2979d428180222796ff4a33ab929.svg",
+						"image_original_url": "https://openseauserdata.com/files/6f8e2979d428180222796ff4a33ab929.svg",
+						"animation_url": null,
+						"animation_original_url": null,
+						"name": "Ether",
+						"description": "",
+						"external_link": null,
+						"asset_contract": {
+							"address": "0x0000000000000000000000000000000000000000",
+							"asset_contract_type": "fungible",
+							"created_date": "2021-03-12T15:05:22.062326",
+							"name": "Ether",
+							"nft_version": null,
+							"opensea_version": null,
+							"owner": null,
+							"schema_name": "ERC20",
+							"symbol": "ETH",
+							"total_supply": null,
+							"description": null,
+							"external_link": null,
+							"image_url": null,
+							"default_to_fiat": false,
+							"dev_buyer_fee_basis_points": 0,
+							"dev_seller_fee_basis_points": 0,
+							"only_proxied_transfers": false,
+							"opensea_buyer_fee_basis_points": 0,
+							"opensea_seller_fee_basis_points": 250,
+							"buyer_fee_basis_points": 0,
+							"seller_fee_basis_points": 250,
+							"payout_address": null
+						},
+						"permalink": "https://testnets.opensea.io/assets/goerli/0x0000000000000000000000000000000000000000/0",
+						"collection": {
+							"banner_image_url": null,
+							"chat_url": null,
+							"created_date": "2022-08-05T17:12:11.501958",
+							"default_to_fiat": false,
+							"description": null,
+							"dev_buyer_fee_basis_points": "0",
+							"dev_seller_fee_basis_points": "0",
+							"discord_url": null,
+							"display_data": {
+								"card_display_style": "contain",
+								"images": []
+							},
+							"external_url": null,
+							"featured": false,
+							"featured_image_url": null,
+							"hidden": true,
+							"safelist_request_status": "not_requested",
+							"image_url": null,
+							"is_subject_to_whitelist": false,
+							"large_image_url": null,
+							"medium_username": null,
+							"name": "OpenSea PaymentAssets",
+							"only_proxied_transfers": false,
+							"opensea_buyer_fee_basis_points": "0",
+							"opensea_seller_fee_basis_points": "250",
+							"payout_address": null,
+							"require_email": false,
+							"short_description": null,
+							"slug": "opensea-paymentassets",
+							"telegram_url": null,
+							"twitter_username": null,
+							"instagram_username": null,
+							"wiki_url": null,
+							"is_nsfw": false,
+							"fees": {
+								"seller_fees": {},
+								"opensea_fees": {
+									"0x0000a26b00c1f0df003000390027140000faa719": 250
+								}
+							},
+							"is_rarity_enabled": false
+						},
+						"decimals": 18,
+						"token_metadata": "",
+						"is_nsfw": false,
+						"owner": {
+							"user": null,
+							"profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+							"address": "0x0000000000000000000000000000000000000000",
+							"config": ""
+						},
+						"token_id": "0"
+					}
+				],
+				"maker": null,
+				"slug": null,
+				"name": null,
+				"description": null,
+				"external_link": null,
+				"asset_contract": {
+					"address": "0x0000000000000000000000000000000000000000",
+					"asset_contract_type": "fungible",
+					"created_date": "2021-03-12T15:05:22.062326",
+					"name": "Ether",
+					"nft_version": null,
+					"opensea_version": null,
+					"owner": null,
+					"schema_name": "ERC20",
+					"symbol": "ETH",
+					"total_supply": null,
+					"description": null,
+					"external_link": null,
+					"image_url": null,
+					"default_to_fiat": false,
+					"dev_buyer_fee_basis_points": 0,
+					"dev_seller_fee_basis_points": 0,
+					"only_proxied_transfers": false,
+					"opensea_buyer_fee_basis_points": 0,
+					"opensea_seller_fee_basis_points": 250,
+					"buyer_fee_basis_points": 0,
+					"seller_fee_basis_points": 250,
+					"payout_address": null
+				},
+				"permalink": "https://testnets.opensea.io/bundles/None",
+				"seaport_sell_orders": null
+			}
+		}
+	},
+	{
+		"chain": "ETH",
+		"media": [
+			{
+				"raw": "https://res.cloudinary.com/manifoldxyz/image/upload/v1663463574/70cb7b533dbd43c02ff0a0bcc893e1267abab7856c77d579f4f04011feb94301.png",
+				"gateway": "https://res.cloudinary.com/manifoldxyz/image/upload/v1663463574/70cb7b533dbd43c02ff0a0bcc893e1267abab7856c77d579f4f04011feb94301.png"
+			}
+		],
+		"title": "Bull in Berlin #2",
+		"token_uri_gateway": "https://studio.api.manifoldxyz.dev/asset_uploader/series/2282272943/metadata/full/2",
+		"token_uri_raw": "https://studio.api.manifoldxyz.dev/asset_uploader/series/2282272943/metadata/full/2",
+		"updated_at": "2022-09-18T02:16:19.926Z",
+		"name": "Bull in Berlin #2",
+		"image": "https://res.cloudinary.com/manifoldxyz/image/upload/v1663463574/70cb7b533dbd43c02ff0a0bcc893e1267abab7856c77d579f4f04011feb94301.png",
+		"attributes": [
+			{
+				"trait_type": "Artist",
+				"value": "Voerch"
+			},
+			{
+				"trait_type": "Background",
+				"value": "Istanbul"
+			}
+		],
+		"description": "To the power of 3.",
+		"token_id": 2,
+		"token_type": "ERC721",
+		"address": "0x0de9db04578a41a19341240495c6894f5fc3f550",
+		"listed": true,
+		"price": 0.35,
+		"payment_token": "0x0000000000000000000000000000000000000000",
+		"listing": {
+			"created_date": "2022-09-18T01:33:30.478215",
+			"closing_date": "2022-10-18T01:31:21",
+			"listing_time": 1663464681,
+			"expiration_time": 1666056681,
+			"order_hash": "0x0d5ddc0277c4d02598fe1abb1813310373aeddc735074ea7693eb74ed8eacf60",
+			"protocol_data": {
+				"parameters": {
+					"offerer": "0x9d0d6552288ba41aa852a9f3e11cc32a9b5254e0",
+					"offer": [
+						{
+							"itemType": 2,
+							"token": "0x0de9DB04578a41a19341240495C6894f5FC3f550",
+							"identifierOrCriteria": "2",
+							"startAmount": "1",
+							"endAmount": "1"
+						}
+					],
+					"consideration": [
+						{
+							"itemType": 0,
+							"token": "0x0000000000000000000000000000000000000000",
+							"identifierOrCriteria": "0",
+							"startAmount": "341250000000000000",
+							"endAmount": "341250000000000000",
+							"recipient": "0x9D0D6552288ba41AA852A9f3e11Cc32A9B5254e0"
+						},
+						{
+							"itemType": 0,
+							"token": "0x0000000000000000000000000000000000000000",
+							"identifierOrCriteria": "0",
+							"startAmount": "8750000000000000",
+							"endAmount": "8750000000000000",
+							"recipient": "0x0000a26b00c1F0DF003000390027140000fAa719"
+						}
+					],
+					"startTime": "1663464681",
+					"endTime": "1666056681",
+					"orderType": 0,
+					"zone": "0x0000000000000000000000000000000000000000",
+					"zoneHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+					"salt": "0x360c6ebe0000000000000000000000000000000000000000ba81835cc6fefc46",
+					"conduitKey": "0x0000007b02230091a7ed01230072f7006a004d60a8d4e71d599b8104250f0000",
+					"totalOriginalConsiderationItems": 2,
+					"counter": 0
+				},
+				"signature": "0xe493991784e52389e4ccb0cf3e56e97ee9a7a44815b1106e760cbdd3ba32b29806e63e0576f8f567b1344c086fe30e5af39f0a47606318754f623826cd5f65731b"
+			},
+			"protocol_address": "0x00000000006c3852cbef3e08e8df289169ede581",
+			"maker": {
+				"user": 223228,
+				"profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/20.png",
+				"address": "0x9d0d6552288ba41aa852a9f3e11cc32a9b5254e0",
+				"config": ""
+			},
+			"taker": null,
+			"current_price": "350000000000000000",
+			"maker_fees": [
+				{
+					"account": {
+						"user": null,
+						"profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/29.png",
+						"address": "0x0000a26b00c1f0df003000390027140000faa719",
+						"config": ""
+					},
+					"basis_points": "250"
+				}
+			],
+			"taker_fees": [],
+			"side": "ask",
+			"order_type": "basic",
+			"cancelled": false,
+			"finalized": false,
+			"marked_invalid": false,
+			"client_signature": "0xe493991784e52389e4ccb0cf3e56e97ee9a7a44815b1106e760cbdd3ba32b29806e63e0576f8f567b1344c086fe30e5af39f0a47606318754f623826cd5f65731b",
+			"relay_id": "T3JkZXJWMlR5cGU6ODI3OTEy",
+			"criteria_proof": null,
+			"maker_asset_bundle": {
+				"assets": [
+					{
+						"id": 127385487,
+						"num_sales": 0,
+						"background_color": null,
+						"image_url": "https://lh3.googleusercontent.com/uEYBW3xze-gIgit0WHbNDt8w93kw3ZhCoGU2JeMC52dq_bLVzzGibnnQNcx_4oJcCb1txLlsBnNuUY1XAWMCI-9QrOIDlLemdh7Y",
+						"image_preview_url": "https://lh3.googleusercontent.com/uEYBW3xze-gIgit0WHbNDt8w93kw3ZhCoGU2JeMC52dq_bLVzzGibnnQNcx_4oJcCb1txLlsBnNuUY1XAWMCI-9QrOIDlLemdh7Y=s250",
+						"image_thumbnail_url": "https://lh3.googleusercontent.com/uEYBW3xze-gIgit0WHbNDt8w93kw3ZhCoGU2JeMC52dq_bLVzzGibnnQNcx_4oJcCb1txLlsBnNuUY1XAWMCI-9QrOIDlLemdh7Y=s128",
+						"image_original_url": "https://res.cloudinary.com/manifoldxyz/image/upload/v1663463574/70cb7b533dbd43c02ff0a0bcc893e1267abab7856c77d579f4f04011feb94301.png",
+						"animation_url": null,
+						"animation_original_url": null,
+						"name": "Bull in Berlin #2",
+						"description": "To the power of 3.",
+						"external_link": "https://www.nftbull.app/",
+						"asset_contract": {
+							"address": "0x0de9db04578a41a19341240495c6894f5fc3f550",
+							"asset_contract_type": "non-fungible",
+							"created_date": "2022-09-18T00:57:51.541453",
+							"name": "InterBull @ETHBerlin",
+							"nft_version": "3.0",
+							"opensea_version": null,
+							"owner": 13126291,
+							"schema_name": "ERC721",
+							"symbol": "BULL",
+							"total_supply": null,
+							"description": "Bull has arrived in Berlin!",
+							"external_link": null,
+							"image_url": "https://i.seadn.io/gcs/files/94e4c4012e457b22b4886618fd65a347.png?w=500&auto=format",
+							"default_to_fiat": false,
+							"dev_buyer_fee_basis_points": 0,
+							"dev_seller_fee_basis_points": 0,
+							"only_proxied_transfers": false,
+							"opensea_buyer_fee_basis_points": 0,
+							"opensea_seller_fee_basis_points": 250,
+							"buyer_fee_basis_points": 0,
+							"seller_fee_basis_points": 250,
+							"payout_address": null
+						},
+						"permalink": "https://testnets.opensea.io/assets/goerli/0x0de9db04578a41a19341240495c6894f5fc3f550/2",
+						"collection": {
+							"banner_image_url": "https://i.seadn.io/gcs/files/d927e889c520884bb433c850e7a13bf4.png?w=500&auto=format",
+							"chat_url": null,
+							"created_date": "2022-09-18T00:57:51.911734",
+							"default_to_fiat": false,
+							"description": "Bull has arrived in Berlin!",
+							"dev_buyer_fee_basis_points": "0",
+							"dev_seller_fee_basis_points": "0",
+							"discord_url": null,
+							"display_data": {
+								"card_display_style": "cover"
+							},
+							"external_url": null,
+							"featured": false,
+							"featured_image_url": "https://i.seadn.io/gcs/files/0be5c4c0609bcb8b8e5f93b011843a1a.png?w=500&auto=format",
+							"hidden": false,
+							"safelist_request_status": "not_requested",
+							"image_url": "https://i.seadn.io/gcs/files/94e4c4012e457b22b4886618fd65a347.png?w=500&auto=format",
+							"is_subject_to_whitelist": false,
+							"large_image_url": "https://i.seadn.io/gcs/files/0be5c4c0609bcb8b8e5f93b011843a1a.png?w=500&auto=format",
+							"medium_username": null,
+							"name": "InterBull at ETHBerlin",
+							"only_proxied_transfers": false,
+							"opensea_buyer_fee_basis_points": "0",
+							"opensea_seller_fee_basis_points": "250",
+							"payout_address": null,
+							"require_email": false,
+							"short_description": null,
+							"slug": "interbull-ethberlin",
+							"telegram_url": null,
+							"twitter_username": null,
+							"instagram_username": null,
+							"wiki_url": null,
+							"is_nsfw": false,
+							"fees": {
+								"seller_fees": {},
+								"opensea_fees": {
+									"0x0000a26b00c1f0df003000390027140000faa719": 250
+								}
+							},
+							"is_rarity_enabled": false
+						},
+						"decimals": null,
+						"token_metadata": "https://studio.api.manifoldxyz.dev/asset_uploader/series/2282272943/metadata/full/2",
+						"is_nsfw": false,
+						"owner": {
+							"user": null,
+							"profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+							"address": "0x0000000000000000000000000000000000000000",
+							"config": ""
+						},
+						"token_id": "2"
+					}
+				],
+				"maker": null,
+				"slug": null,
+				"name": null,
+				"description": null,
+				"external_link": null,
+				"asset_contract": {
+					"address": "0x0de9db04578a41a19341240495c6894f5fc3f550",
+					"asset_contract_type": "non-fungible",
+					"created_date": "2022-09-18T00:57:51.541453",
+					"name": "InterBull @ETHBerlin",
+					"nft_version": "3.0",
+					"opensea_version": null,
+					"owner": 13126291,
+					"schema_name": "ERC721",
+					"symbol": "BULL",
+					"total_supply": null,
+					"description": "Bull has arrived in Berlin!",
+					"external_link": null,
+					"image_url": "https://i.seadn.io/gcs/files/94e4c4012e457b22b4886618fd65a347.png?w=500&auto=format",
+					"default_to_fiat": false,
+					"dev_buyer_fee_basis_points": 0,
+					"dev_seller_fee_basis_points": 0,
+					"only_proxied_transfers": false,
+					"opensea_buyer_fee_basis_points": 0,
+					"opensea_seller_fee_basis_points": 250,
+					"buyer_fee_basis_points": 0,
+					"seller_fee_basis_points": 250,
+					"payout_address": null
+				},
+				"permalink": "https://testnets.opensea.io/bundles/None",
+				"seaport_sell_orders": null
+			},
+			"taker_asset_bundle": {
+				"assets": [
+					{
+						"id": 1507176,
+						"num_sales": 0,
+						"background_color": null,
+						"image_url": "https://openseauserdata.com/files/6f8e2979d428180222796ff4a33ab929.svg",
+						"image_preview_url": "https://openseauserdata.com/files/6f8e2979d428180222796ff4a33ab929.svg",
+						"image_thumbnail_url": "https://openseauserdata.com/files/6f8e2979d428180222796ff4a33ab929.svg",
+						"image_original_url": "https://openseauserdata.com/files/6f8e2979d428180222796ff4a33ab929.svg",
+						"animation_url": null,
+						"animation_original_url": null,
+						"name": "Ether",
+						"description": "",
+						"external_link": null,
+						"asset_contract": {
+							"address": "0x0000000000000000000000000000000000000000",
+							"asset_contract_type": "fungible",
+							"created_date": "2021-03-12T15:05:22.062326",
+							"name": "Ether",
+							"nft_version": null,
+							"opensea_version": null,
+							"owner": null,
+							"schema_name": "ERC20",
+							"symbol": "ETH",
+							"total_supply": null,
+							"description": null,
+							"external_link": null,
+							"image_url": null,
+							"default_to_fiat": false,
+							"dev_buyer_fee_basis_points": 0,
+							"dev_seller_fee_basis_points": 0,
+							"only_proxied_transfers": false,
+							"opensea_buyer_fee_basis_points": 0,
+							"opensea_seller_fee_basis_points": 250,
+							"buyer_fee_basis_points": 0,
+							"seller_fee_basis_points": 250,
+							"payout_address": null
+						},
+						"permalink": "https://testnets.opensea.io/assets/goerli/0x0000000000000000000000000000000000000000/0",
+						"collection": {
+							"banner_image_url": null,
+							"chat_url": null,
+							"created_date": "2022-08-05T17:12:11.501958",
+							"default_to_fiat": false,
+							"description": null,
+							"dev_buyer_fee_basis_points": "0",
+							"dev_seller_fee_basis_points": "0",
+							"discord_url": null,
+							"display_data": {
+								"card_display_style": "contain",
+								"images": []
+							},
+							"external_url": null,
+							"featured": false,
+							"featured_image_url": null,
+							"hidden": true,
+							"safelist_request_status": "not_requested",
+							"image_url": null,
+							"is_subject_to_whitelist": false,
+							"large_image_url": null,
+							"medium_username": null,
+							"name": "OpenSea PaymentAssets",
+							"only_proxied_transfers": false,
+							"opensea_buyer_fee_basis_points": "0",
+							"opensea_seller_fee_basis_points": "250",
+							"payout_address": null,
+							"require_email": false,
+							"short_description": null,
+							"slug": "opensea-paymentassets",
+							"telegram_url": null,
+							"twitter_username": null,
+							"instagram_username": null,
+							"wiki_url": null,
+							"is_nsfw": false,
+							"fees": {
+								"seller_fees": {},
+								"opensea_fees": {
+									"0x0000a26b00c1f0df003000390027140000faa719": 250
+								}
+							},
+							"is_rarity_enabled": false
+						},
+						"decimals": 18,
+						"token_metadata": "",
+						"is_nsfw": false,
+						"owner": {
+							"user": null,
+							"profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+							"address": "0x0000000000000000000000000000000000000000",
+							"config": ""
+						},
+						"token_id": "0"
+					}
+				],
+				"maker": null,
+				"slug": null,
+				"name": null,
+				"description": null,
+				"external_link": null,
+				"asset_contract": {
+					"address": "0x0000000000000000000000000000000000000000",
+					"asset_contract_type": "fungible",
+					"created_date": "2021-03-12T15:05:22.062326",
+					"name": "Ether",
+					"nft_version": null,
+					"opensea_version": null,
+					"owner": null,
+					"schema_name": "ERC20",
+					"symbol": "ETH",
+					"total_supply": null,
+					"description": null,
+					"external_link": null,
+					"image_url": null,
+					"default_to_fiat": false,
+					"dev_buyer_fee_basis_points": 0,
+					"dev_seller_fee_basis_points": 0,
+					"only_proxied_transfers": false,
+					"opensea_buyer_fee_basis_points": 0,
+					"opensea_seller_fee_basis_points": 250,
+					"buyer_fee_basis_points": 0,
+					"seller_fee_basis_points": 250,
+					"payout_address": null
+				},
+				"permalink": "https://testnets.opensea.io/bundles/None",
+				"seaport_sell_orders": null
+			}
+		}
+	},
+	{
+		"chain": "ETH",
+		"media": [
+			{
+				"raw": "https://res.cloudinary.com/manifoldxyz/image/upload/v1663463799/549a1f268c3fb14d137311b5c80f2e29d08f871c7e249de64c4c803353e971d9.png",
+				"gateway": "https://res.cloudinary.com/manifoldxyz/image/upload/v1663463799/549a1f268c3fb14d137311b5c80f2e29d08f871c7e249de64c4c803353e971d9.png"
+			}
+		],
+		"title": "Bull in Berlin #3",
+		"token_uri_gateway": "https://studio.api.manifoldxyz.dev/asset_uploader/series/2282272943/metadata/full/3",
+		"token_uri_raw": "https://studio.api.manifoldxyz.dev/asset_uploader/series/2282272943/metadata/full/3",
+		"updated_at": "2022-09-18T01:34:20.375Z",
+		"name": "Bull in Berlin #3",
+		"image": "https://res.cloudinary.com/manifoldxyz/image/upload/v1663463799/549a1f268c3fb14d137311b5c80f2e29d08f871c7e249de64c4c803353e971d9.png",
+		"attributes": [
+			{
+				"value": "Voerch",
+				"trait_type": "Artist"
+			},
+			{
+				"value": "Berlin",
+				"trait_type": "Background"
+			}
+		],
+		"description": "To the power of 3.",
+		"token_id": 3,
+		"token_type": "ERC721",
+		"address": "0x0de9db04578a41a19341240495c6894f5fc3f550",
+		"listed": true,
+		"price": 0.35,
+		"payment_token": "0x0000000000000000000000000000000000000000",
+		"listing": {
+			"created_date": "2022-09-18T01:33:46.775380",
+			"closing_date": "2022-10-18T01:31:33",
+			"listing_time": 1663464693,
+			"expiration_time": 1666056693,
+			"order_hash": "0xb52a8f2df65fd8ba313b28cd07b280e76d5f106f97df4fb0594aead6154ae1b2",
+			"protocol_data": {
+				"parameters": {
+					"offerer": "0x9d0d6552288ba41aa852a9f3e11cc32a9b5254e0",
+					"offer": [
+						{
+							"itemType": 2,
+							"token": "0x0de9DB04578a41a19341240495C6894f5FC3f550",
+							"identifierOrCriteria": "3",
+							"startAmount": "1",
+							"endAmount": "1"
+						}
+					],
+					"consideration": [
+						{
+							"itemType": 0,
+							"token": "0x0000000000000000000000000000000000000000",
+							"identifierOrCriteria": "0",
+							"startAmount": "341250000000000000",
+							"endAmount": "341250000000000000",
+							"recipient": "0x9D0D6552288ba41AA852A9f3e11Cc32A9B5254e0"
+						},
+						{
+							"itemType": 0,
+							"token": "0x0000000000000000000000000000000000000000",
+							"identifierOrCriteria": "0",
+							"startAmount": "8750000000000000",
+							"endAmount": "8750000000000000",
+							"recipient": "0x0000a26b00c1F0DF003000390027140000fAa719"
+						}
+					],
+					"startTime": "1663464693",
+					"endTime": "1666056693",
+					"orderType": 0,
+					"zone": "0x0000000000000000000000000000000000000000",
+					"zoneHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+					"salt": "0x360c6ebe0000000000000000000000000000000000000000bc90e25f42839099",
+					"conduitKey": "0x0000007b02230091a7ed01230072f7006a004d60a8d4e71d599b8104250f0000",
+					"totalOriginalConsiderationItems": 2,
+					"counter": 0
+				},
+				"signature": "0x053f7fbde74b6fe780ca3b844df61f7ee6776071128ac7a633c5db63baee7da17dc09d40b00451dea504cc09b765794d565e1434c5deab6583744263e996a04e1b"
+			},
+			"protocol_address": "0x00000000006c3852cbef3e08e8df289169ede581",
+			"maker": {
+				"user": 223228,
+				"profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/20.png",
+				"address": "0x9d0d6552288ba41aa852a9f3e11cc32a9b5254e0",
+				"config": ""
+			},
+			"taker": null,
+			"current_price": "350000000000000000",
+			"maker_fees": [
+				{
+					"account": {
+						"user": null,
+						"profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/29.png",
+						"address": "0x0000a26b00c1f0df003000390027140000faa719",
+						"config": ""
+					},
+					"basis_points": "250"
+				}
+			],
+			"taker_fees": [],
+			"side": "ask",
+			"order_type": "basic",
+			"cancelled": false,
+			"finalized": false,
+			"marked_invalid": false,
+			"client_signature": "0x053f7fbde74b6fe780ca3b844df61f7ee6776071128ac7a633c5db63baee7da17dc09d40b00451dea504cc09b765794d565e1434c5deab6583744263e996a04e1b",
+			"relay_id": "T3JkZXJWMlR5cGU6ODI3OTEz",
+			"criteria_proof": null,
+			"maker_asset_bundle": {
+				"assets": [
+					{
+						"id": 127385490,
+						"num_sales": 0,
+						"background_color": null,
+						"image_url": "https://lh3.googleusercontent.com/XnCJeMSq6Vrku8PExQ1GQrrl9B-hqaIMqKf560pNQjTcPAIMWjUURf-NMMPb4V6-X1wHZC5Zzru3LP4m2OzbmHWwMhRi6B8X3JNHrQ",
+						"image_preview_url": "https://lh3.googleusercontent.com/XnCJeMSq6Vrku8PExQ1GQrrl9B-hqaIMqKf560pNQjTcPAIMWjUURf-NMMPb4V6-X1wHZC5Zzru3LP4m2OzbmHWwMhRi6B8X3JNHrQ=s250",
+						"image_thumbnail_url": "https://lh3.googleusercontent.com/XnCJeMSq6Vrku8PExQ1GQrrl9B-hqaIMqKf560pNQjTcPAIMWjUURf-NMMPb4V6-X1wHZC5Zzru3LP4m2OzbmHWwMhRi6B8X3JNHrQ=s128",
+						"image_original_url": "https://res.cloudinary.com/manifoldxyz/image/upload/v1663463799/549a1f268c3fb14d137311b5c80f2e29d08f871c7e249de64c4c803353e971d9.png",
+						"animation_url": null,
+						"animation_original_url": null,
+						"name": "Bull in Berlin #3",
+						"description": "To the power of 3.",
+						"external_link": "https://www.nftbull.app/",
+						"asset_contract": {
+							"address": "0x0de9db04578a41a19341240495c6894f5fc3f550",
+							"asset_contract_type": "non-fungible",
+							"created_date": "2022-09-18T00:57:51.541453",
+							"name": "InterBull @ETHBerlin",
+							"nft_version": "3.0",
+							"opensea_version": null,
+							"owner": 13126291,
+							"schema_name": "ERC721",
+							"symbol": "BULL",
+							"total_supply": null,
+							"description": "Bull has arrived in Berlin!",
+							"external_link": null,
+							"image_url": "https://i.seadn.io/gcs/files/94e4c4012e457b22b4886618fd65a347.png?w=500&auto=format",
+							"default_to_fiat": false,
+							"dev_buyer_fee_basis_points": 0,
+							"dev_seller_fee_basis_points": 0,
+							"only_proxied_transfers": false,
+							"opensea_buyer_fee_basis_points": 0,
+							"opensea_seller_fee_basis_points": 250,
+							"buyer_fee_basis_points": 0,
+							"seller_fee_basis_points": 250,
+							"payout_address": null
+						},
+						"permalink": "https://testnets.opensea.io/assets/goerli/0x0de9db04578a41a19341240495c6894f5fc3f550/3",
+						"collection": {
+							"banner_image_url": "https://i.seadn.io/gcs/files/d927e889c520884bb433c850e7a13bf4.png?w=500&auto=format",
+							"chat_url": null,
+							"created_date": "2022-09-18T00:57:51.911734",
+							"default_to_fiat": false,
+							"description": "Bull has arrived in Berlin!",
+							"dev_buyer_fee_basis_points": "0",
+							"dev_seller_fee_basis_points": "0",
+							"discord_url": null,
+							"display_data": {
+								"card_display_style": "cover"
+							},
+							"external_url": null,
+							"featured": false,
+							"featured_image_url": "https://i.seadn.io/gcs/files/0be5c4c0609bcb8b8e5f93b011843a1a.png?w=500&auto=format",
+							"hidden": false,
+							"safelist_request_status": "not_requested",
+							"image_url": "https://i.seadn.io/gcs/files/94e4c4012e457b22b4886618fd65a347.png?w=500&auto=format",
+							"is_subject_to_whitelist": false,
+							"large_image_url": "https://i.seadn.io/gcs/files/0be5c4c0609bcb8b8e5f93b011843a1a.png?w=500&auto=format",
+							"medium_username": null,
+							"name": "InterBull at ETHBerlin",
+							"only_proxied_transfers": false,
+							"opensea_buyer_fee_basis_points": "0",
+							"opensea_seller_fee_basis_points": "250",
+							"payout_address": null,
+							"require_email": false,
+							"short_description": null,
+							"slug": "interbull-ethberlin",
+							"telegram_url": null,
+							"twitter_username": null,
+							"instagram_username": null,
+							"wiki_url": null,
+							"is_nsfw": false,
+							"fees": {
+								"seller_fees": {},
+								"opensea_fees": {
+									"0x0000a26b00c1f0df003000390027140000faa719": 250
+								}
+							},
+							"is_rarity_enabled": false
+						},
+						"decimals": null,
+						"token_metadata": "https://studio.api.manifoldxyz.dev/asset_uploader/series/2282272943/metadata/full/3",
+						"is_nsfw": false,
+						"owner": {
+							"user": null,
+							"profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+							"address": "0x0000000000000000000000000000000000000000",
+							"config": ""
+						},
+						"token_id": "3"
+					}
+				],
+				"maker": null,
+				"slug": null,
+				"name": null,
+				"description": null,
+				"external_link": null,
+				"asset_contract": {
+					"address": "0x0de9db04578a41a19341240495c6894f5fc3f550",
+					"asset_contract_type": "non-fungible",
+					"created_date": "2022-09-18T00:57:51.541453",
+					"name": "InterBull @ETHBerlin",
+					"nft_version": "3.0",
+					"opensea_version": null,
+					"owner": 13126291,
+					"schema_name": "ERC721",
+					"symbol": "BULL",
+					"total_supply": null,
+					"description": "Bull has arrived in Berlin!",
+					"external_link": null,
+					"image_url": "https://i.seadn.io/gcs/files/94e4c4012e457b22b4886618fd65a347.png?w=500&auto=format",
+					"default_to_fiat": false,
+					"dev_buyer_fee_basis_points": 0,
+					"dev_seller_fee_basis_points": 0,
+					"only_proxied_transfers": false,
+					"opensea_buyer_fee_basis_points": 0,
+					"opensea_seller_fee_basis_points": 250,
+					"buyer_fee_basis_points": 0,
+					"seller_fee_basis_points": 250,
+					"payout_address": null
+				},
+				"permalink": "https://testnets.opensea.io/bundles/None",
+				"seaport_sell_orders": null
+			},
+			"taker_asset_bundle": {
+				"assets": [
+					{
+						"id": 1507176,
+						"num_sales": 0,
+						"background_color": null,
+						"image_url": "https://openseauserdata.com/files/6f8e2979d428180222796ff4a33ab929.svg",
+						"image_preview_url": "https://openseauserdata.com/files/6f8e2979d428180222796ff4a33ab929.svg",
+						"image_thumbnail_url": "https://openseauserdata.com/files/6f8e2979d428180222796ff4a33ab929.svg",
+						"image_original_url": "https://openseauserdata.com/files/6f8e2979d428180222796ff4a33ab929.svg",
+						"animation_url": null,
+						"animation_original_url": null,
+						"name": "Ether",
+						"description": "",
+						"external_link": null,
+						"asset_contract": {
+							"address": "0x0000000000000000000000000000000000000000",
+							"asset_contract_type": "fungible",
+							"created_date": "2021-03-12T15:05:22.062326",
+							"name": "Ether",
+							"nft_version": null,
+							"opensea_version": null,
+							"owner": null,
+							"schema_name": "ERC20",
+							"symbol": "ETH",
+							"total_supply": null,
+							"description": null,
+							"external_link": null,
+							"image_url": null,
+							"default_to_fiat": false,
+							"dev_buyer_fee_basis_points": 0,
+							"dev_seller_fee_basis_points": 0,
+							"only_proxied_transfers": false,
+							"opensea_buyer_fee_basis_points": 0,
+							"opensea_seller_fee_basis_points": 250,
+							"buyer_fee_basis_points": 0,
+							"seller_fee_basis_points": 250,
+							"payout_address": null
+						},
+						"permalink": "https://testnets.opensea.io/assets/goerli/0x0000000000000000000000000000000000000000/0",
+						"collection": {
+							"banner_image_url": null,
+							"chat_url": null,
+							"created_date": "2022-08-05T17:12:11.501958",
+							"default_to_fiat": false,
+							"description": null,
+							"dev_buyer_fee_basis_points": "0",
+							"dev_seller_fee_basis_points": "0",
+							"discord_url": null,
+							"display_data": {
+								"card_display_style": "contain",
+								"images": []
+							},
+							"external_url": null,
+							"featured": false,
+							"featured_image_url": null,
+							"hidden": true,
+							"safelist_request_status": "not_requested",
+							"image_url": null,
+							"is_subject_to_whitelist": false,
+							"large_image_url": null,
+							"medium_username": null,
+							"name": "OpenSea PaymentAssets",
+							"only_proxied_transfers": false,
+							"opensea_buyer_fee_basis_points": "0",
+							"opensea_seller_fee_basis_points": "250",
+							"payout_address": null,
+							"require_email": false,
+							"short_description": null,
+							"slug": "opensea-paymentassets",
+							"telegram_url": null,
+							"twitter_username": null,
+							"instagram_username": null,
+							"wiki_url": null,
+							"is_nsfw": false,
+							"fees": {
+								"seller_fees": {},
+								"opensea_fees": {
+									"0x0000a26b00c1f0df003000390027140000faa719": 250
+								}
+							},
+							"is_rarity_enabled": false
+						},
+						"decimals": 18,
+						"token_metadata": "",
+						"is_nsfw": false,
+						"owner": {
+							"user": null,
+							"profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+							"address": "0x0000000000000000000000000000000000000000",
+							"config": ""
+						},
+						"token_id": "0"
+					}
+				],
+				"maker": null,
+				"slug": null,
+				"name": null,
+				"description": null,
+				"external_link": null,
+				"asset_contract": {
+					"address": "0x0000000000000000000000000000000000000000",
+					"asset_contract_type": "fungible",
+					"created_date": "2021-03-12T15:05:22.062326",
+					"name": "Ether",
+					"nft_version": null,
+					"opensea_version": null,
+					"owner": null,
+					"schema_name": "ERC20",
+					"symbol": "ETH",
+					"total_supply": null,
+					"description": null,
+					"external_link": null,
+					"image_url": null,
+					"default_to_fiat": false,
+					"dev_buyer_fee_basis_points": 0,
+					"dev_seller_fee_basis_points": 0,
+					"only_proxied_transfers": false,
+					"opensea_buyer_fee_basis_points": 0,
+					"opensea_seller_fee_basis_points": 250,
+					"buyer_fee_basis_points": 0,
+					"seller_fee_basis_points": 250,
+					"payout_address": null
+				},
+				"permalink": "https://testnets.opensea.io/bundles/None",
+				"seaport_sell_orders": null
+			}
+		}
+	},
+	{
+		"chain": "ETH",
+		"media": [
+			{
+				"raw": "https://res.cloudinary.com/manifoldxyz/image/upload/v1663463800/6f57a89a0833ae530fe1a8e505a94de91940a80e7c806266cf606aceb7a29d30.png",
+				"gateway": "https://res.cloudinary.com/manifoldxyz/image/upload/v1663463800/6f57a89a0833ae530fe1a8e505a94de91940a80e7c806266cf606aceb7a29d30.png"
+			}
+		],
+		"title": "Bull in Berlin #4",
+		"token_uri_gateway": "https://studio.api.manifoldxyz.dev/asset_uploader/series/2282272943/metadata/full/4",
+		"token_uri_raw": "https://studio.api.manifoldxyz.dev/asset_uploader/series/2282272943/metadata/full/4",
+		"updated_at": "2022-09-18T02:16:19.949Z",
+		"name": "Bull in Berlin #4",
+		"image": "https://res.cloudinary.com/manifoldxyz/image/upload/v1663463800/6f57a89a0833ae530fe1a8e505a94de91940a80e7c806266cf606aceb7a29d30.png",
+		"attributes": [
+			{
+				"trait_type": "Artist",
+				"value": "Voerch"
+			},
+			{
+				"trait_type": "Background",
+				"value": "Mona Lisa"
+			}
+		],
+		"description": "To the power of 3.",
+		"token_id": 4,
+		"token_type": "ERC721",
+		"address": "0x0de9db04578a41a19341240495c6894f5fc3f550",
+		"listed": true,
+		"price": 0.2,
+		"payment_token": "0x0000000000000000000000000000000000000000",
+		"listing": {
+			"created_date": "2022-09-18T01:34:01.397055",
+			"closing_date": "2022-10-18T01:31:49",
+			"listing_time": 1663464709,
+			"expiration_time": 1666056709,
+			"order_hash": "0xe2e1777ac35534c0338d63aabe3db8d3b47a1c48953cbadc2daa01d21542ecea",
+			"protocol_data": {
+				"parameters": {
+					"offerer": "0x9d0d6552288ba41aa852a9f3e11cc32a9b5254e0",
+					"offer": [
+						{
+							"itemType": 2,
+							"token": "0x0de9DB04578a41a19341240495C6894f5FC3f550",
+							"identifierOrCriteria": "4",
+							"startAmount": "1",
+							"endAmount": "1"
+						}
+					],
+					"consideration": [
+						{
+							"itemType": 0,
+							"token": "0x0000000000000000000000000000000000000000",
+							"identifierOrCriteria": "0",
+							"startAmount": "195000000000000000",
+							"endAmount": "195000000000000000",
+							"recipient": "0x9D0D6552288ba41AA852A9f3e11Cc32A9B5254e0"
+						},
+						{
+							"itemType": 0,
+							"token": "0x0000000000000000000000000000000000000000",
+							"identifierOrCriteria": "0",
+							"startAmount": "5000000000000000",
+							"endAmount": "5000000000000000",
+							"recipient": "0x0000a26b00c1F0DF003000390027140000fAa719"
+						}
+					],
+					"startTime": "1663464709",
+					"endTime": "1666056709",
+					"orderType": 0,
+					"zone": "0x0000000000000000000000000000000000000000",
+					"zoneHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+					"salt": "0x360c6ebe00000000000000000000000000000000000000004bc85bbf95b483ac",
+					"conduitKey": "0x0000007b02230091a7ed01230072f7006a004d60a8d4e71d599b8104250f0000",
+					"totalOriginalConsiderationItems": 2,
+					"counter": 0
+				},
+				"signature": "0x46b65e9108264b8acc1fd5bde3438b1db3f1b2423c81563ab3e6084533129d9f14481f86c946971715749b79641593174cddd7c5f2696655524f74e5376f30c81c"
+			},
+			"protocol_address": "0x00000000006c3852cbef3e08e8df289169ede581",
+			"maker": {
+				"user": 223228,
+				"profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/20.png",
+				"address": "0x9d0d6552288ba41aa852a9f3e11cc32a9b5254e0",
+				"config": ""
+			},
+			"taker": null,
+			"current_price": "200000000000000000",
+			"maker_fees": [
+				{
+					"account": {
+						"user": null,
+						"profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/29.png",
+						"address": "0x0000a26b00c1f0df003000390027140000faa719",
+						"config": ""
+					},
+					"basis_points": "250"
+				}
+			],
+			"taker_fees": [],
+			"side": "ask",
+			"order_type": "basic",
+			"cancelled": false,
+			"finalized": false,
+			"marked_invalid": false,
+			"client_signature": "0x46b65e9108264b8acc1fd5bde3438b1db3f1b2423c81563ab3e6084533129d9f14481f86c946971715749b79641593174cddd7c5f2696655524f74e5376f30c81c",
+			"relay_id": "T3JkZXJWMlR5cGU6ODI3OTE0",
+			"criteria_proof": null,
+			"maker_asset_bundle": {
+				"assets": [
+					{
+						"id": 127385493,
+						"num_sales": 0,
+						"background_color": null,
+						"image_url": "https://lh3.googleusercontent.com/7V2WtPToMQGp3zL-oREwGllMvIEzSRyKHL-6bcC-M6Oo8xAudBSIwI-yhjOblvX70EiFAEazxlLiE4wLgpY6dIdMJPU2O98nI_Jg",
+						"image_preview_url": "https://lh3.googleusercontent.com/7V2WtPToMQGp3zL-oREwGllMvIEzSRyKHL-6bcC-M6Oo8xAudBSIwI-yhjOblvX70EiFAEazxlLiE4wLgpY6dIdMJPU2O98nI_Jg=s250",
+						"image_thumbnail_url": "https://lh3.googleusercontent.com/7V2WtPToMQGp3zL-oREwGllMvIEzSRyKHL-6bcC-M6Oo8xAudBSIwI-yhjOblvX70EiFAEazxlLiE4wLgpY6dIdMJPU2O98nI_Jg=s128",
+						"image_original_url": "https://res.cloudinary.com/manifoldxyz/image/upload/v1663463800/6f57a89a0833ae530fe1a8e505a94de91940a80e7c806266cf606aceb7a29d30.png",
+						"animation_url": null,
+						"animation_original_url": null,
+						"name": "Bull in Berlin #4",
+						"description": "To the power of 3.",
+						"external_link": "https://www.nftbull.app/",
+						"asset_contract": {
+							"address": "0x0de9db04578a41a19341240495c6894f5fc3f550",
+							"asset_contract_type": "non-fungible",
+							"created_date": "2022-09-18T00:57:51.541453",
+							"name": "InterBull @ETHBerlin",
+							"nft_version": "3.0",
+							"opensea_version": null,
+							"owner": 13126291,
+							"schema_name": "ERC721",
+							"symbol": "BULL",
+							"total_supply": null,
+							"description": "Bull has arrived in Berlin!",
+							"external_link": null,
+							"image_url": "https://i.seadn.io/gcs/files/94e4c4012e457b22b4886618fd65a347.png?w=500&auto=format",
+							"default_to_fiat": false,
+							"dev_buyer_fee_basis_points": 0,
+							"dev_seller_fee_basis_points": 0,
+							"only_proxied_transfers": false,
+							"opensea_buyer_fee_basis_points": 0,
+							"opensea_seller_fee_basis_points": 250,
+							"buyer_fee_basis_points": 0,
+							"seller_fee_basis_points": 250,
+							"payout_address": null
+						},
+						"permalink": "https://testnets.opensea.io/assets/goerli/0x0de9db04578a41a19341240495c6894f5fc3f550/4",
+						"collection": {
+							"banner_image_url": "https://i.seadn.io/gcs/files/d927e889c520884bb433c850e7a13bf4.png?w=500&auto=format",
+							"chat_url": null,
+							"created_date": "2022-09-18T00:57:51.911734",
+							"default_to_fiat": false,
+							"description": "Bull has arrived in Berlin!",
+							"dev_buyer_fee_basis_points": "0",
+							"dev_seller_fee_basis_points": "0",
+							"discord_url": null,
+							"display_data": {
+								"card_display_style": "cover"
+							},
+							"external_url": null,
+							"featured": false,
+							"featured_image_url": "https://i.seadn.io/gcs/files/0be5c4c0609bcb8b8e5f93b011843a1a.png?w=500&auto=format",
+							"hidden": false,
+							"safelist_request_status": "not_requested",
+							"image_url": "https://i.seadn.io/gcs/files/94e4c4012e457b22b4886618fd65a347.png?w=500&auto=format",
+							"is_subject_to_whitelist": false,
+							"large_image_url": "https://i.seadn.io/gcs/files/0be5c4c0609bcb8b8e5f93b011843a1a.png?w=500&auto=format",
+							"medium_username": null,
+							"name": "InterBull at ETHBerlin",
+							"only_proxied_transfers": false,
+							"opensea_buyer_fee_basis_points": "0",
+							"opensea_seller_fee_basis_points": "250",
+							"payout_address": null,
+							"require_email": false,
+							"short_description": null,
+							"slug": "interbull-ethberlin",
+							"telegram_url": null,
+							"twitter_username": null,
+							"instagram_username": null,
+							"wiki_url": null,
+							"is_nsfw": false,
+							"fees": {
+								"seller_fees": {},
+								"opensea_fees": {
+									"0x0000a26b00c1f0df003000390027140000faa719": 250
+								}
+							},
+							"is_rarity_enabled": false
+						},
+						"decimals": null,
+						"token_metadata": "https://studio.api.manifoldxyz.dev/asset_uploader/series/2282272943/metadata/full/4",
+						"is_nsfw": false,
+						"owner": {
+							"user": null,
+							"profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+							"address": "0x0000000000000000000000000000000000000000",
+							"config": ""
+						},
+						"token_id": "4"
+					}
+				],
+				"maker": null,
+				"slug": null,
+				"name": null,
+				"description": null,
+				"external_link": null,
+				"asset_contract": {
+					"address": "0x0de9db04578a41a19341240495c6894f5fc3f550",
+					"asset_contract_type": "non-fungible",
+					"created_date": "2022-09-18T00:57:51.541453",
+					"name": "InterBull @ETHBerlin",
+					"nft_version": "3.0",
+					"opensea_version": null,
+					"owner": 13126291,
+					"schema_name": "ERC721",
+					"symbol": "BULL",
+					"total_supply": null,
+					"description": "Bull has arrived in Berlin!",
+					"external_link": null,
+					"image_url": "https://i.seadn.io/gcs/files/94e4c4012e457b22b4886618fd65a347.png?w=500&auto=format",
+					"default_to_fiat": false,
+					"dev_buyer_fee_basis_points": 0,
+					"dev_seller_fee_basis_points": 0,
+					"only_proxied_transfers": false,
+					"opensea_buyer_fee_basis_points": 0,
+					"opensea_seller_fee_basis_points": 250,
+					"buyer_fee_basis_points": 0,
+					"seller_fee_basis_points": 250,
+					"payout_address": null
+				},
+				"permalink": "https://testnets.opensea.io/bundles/None",
+				"seaport_sell_orders": null
+			},
+			"taker_asset_bundle": {
+				"assets": [
+					{
+						"id": 1507176,
+						"num_sales": 0,
+						"background_color": null,
+						"image_url": "https://openseauserdata.com/files/6f8e2979d428180222796ff4a33ab929.svg",
+						"image_preview_url": "https://openseauserdata.com/files/6f8e2979d428180222796ff4a33ab929.svg",
+						"image_thumbnail_url": "https://openseauserdata.com/files/6f8e2979d428180222796ff4a33ab929.svg",
+						"image_original_url": "https://openseauserdata.com/files/6f8e2979d428180222796ff4a33ab929.svg",
+						"animation_url": null,
+						"animation_original_url": null,
+						"name": "Ether",
+						"description": "",
+						"external_link": null,
+						"asset_contract": {
+							"address": "0x0000000000000000000000000000000000000000",
+							"asset_contract_type": "fungible",
+							"created_date": "2021-03-12T15:05:22.062326",
+							"name": "Ether",
+							"nft_version": null,
+							"opensea_version": null,
+							"owner": null,
+							"schema_name": "ERC20",
+							"symbol": "ETH",
+							"total_supply": null,
+							"description": null,
+							"external_link": null,
+							"image_url": null,
+							"default_to_fiat": false,
+							"dev_buyer_fee_basis_points": 0,
+							"dev_seller_fee_basis_points": 0,
+							"only_proxied_transfers": false,
+							"opensea_buyer_fee_basis_points": 0,
+							"opensea_seller_fee_basis_points": 250,
+							"buyer_fee_basis_points": 0,
+							"seller_fee_basis_points": 250,
+							"payout_address": null
+						},
+						"permalink": "https://testnets.opensea.io/assets/goerli/0x0000000000000000000000000000000000000000/0",
+						"collection": {
+							"banner_image_url": null,
+							"chat_url": null,
+							"created_date": "2022-08-05T17:12:11.501958",
+							"default_to_fiat": false,
+							"description": null,
+							"dev_buyer_fee_basis_points": "0",
+							"dev_seller_fee_basis_points": "0",
+							"discord_url": null,
+							"display_data": {
+								"card_display_style": "contain",
+								"images": []
+							},
+							"external_url": null,
+							"featured": false,
+							"featured_image_url": null,
+							"hidden": true,
+							"safelist_request_status": "not_requested",
+							"image_url": null,
+							"is_subject_to_whitelist": false,
+							"large_image_url": null,
+							"medium_username": null,
+							"name": "OpenSea PaymentAssets",
+							"only_proxied_transfers": false,
+							"opensea_buyer_fee_basis_points": "0",
+							"opensea_seller_fee_basis_points": "250",
+							"payout_address": null,
+							"require_email": false,
+							"short_description": null,
+							"slug": "opensea-paymentassets",
+							"telegram_url": null,
+							"twitter_username": null,
+							"instagram_username": null,
+							"wiki_url": null,
+							"is_nsfw": false,
+							"fees": {
+								"seller_fees": {},
+								"opensea_fees": {
+									"0x0000a26b00c1f0df003000390027140000faa719": 250
+								}
+							},
+							"is_rarity_enabled": false
+						},
+						"decimals": 18,
+						"token_metadata": "",
+						"is_nsfw": false,
+						"owner": {
+							"user": null,
+							"profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+							"address": "0x0000000000000000000000000000000000000000",
+							"config": ""
+						},
+						"token_id": "0"
+					}
+				],
+				"maker": null,
+				"slug": null,
+				"name": null,
+				"description": null,
+				"external_link": null,
+				"asset_contract": {
+					"address": "0x0000000000000000000000000000000000000000",
+					"asset_contract_type": "fungible",
+					"created_date": "2021-03-12T15:05:22.062326",
+					"name": "Ether",
+					"nft_version": null,
+					"opensea_version": null,
+					"owner": null,
+					"schema_name": "ERC20",
+					"symbol": "ETH",
+					"total_supply": null,
+					"description": null,
+					"external_link": null,
+					"image_url": null,
+					"default_to_fiat": false,
+					"dev_buyer_fee_basis_points": 0,
+					"dev_seller_fee_basis_points": 0,
+					"only_proxied_transfers": false,
+					"opensea_buyer_fee_basis_points": 0,
+					"opensea_seller_fee_basis_points": 250,
+					"buyer_fee_basis_points": 0,
+					"seller_fee_basis_points": 250,
+					"payout_address": null
+				},
+				"permalink": "https://testnets.opensea.io/bundles/None",
+				"seaport_sell_orders": null
+			}
+		}
+	},
+	{
+		"chain": "ETH",
+		"media": [
+			{
+				"raw": "https://res.cloudinary.com/manifoldxyz/image/upload/v1663463800/71775485da94421db356aa684e2f7b9eaf96f6fd39934a1af545f356fc0a3a23.png",
+				"gateway": "https://res.cloudinary.com/manifoldxyz/image/upload/v1663463800/71775485da94421db356aa684e2f7b9eaf96f6fd39934a1af545f356fc0a3a23.png"
+			}
+		],
+		"title": "Bull in Berlin #5",
+		"token_uri_gateway": "https://studio.api.manifoldxyz.dev/asset_uploader/series/2282272943/metadata/full/5",
+		"token_uri_raw": "https://studio.api.manifoldxyz.dev/asset_uploader/series/2282272943/metadata/full/5",
+		"updated_at": "2022-09-18T02:16:19.951Z",
+		"name": "Bull in Berlin #5",
+		"image": "https://res.cloudinary.com/manifoldxyz/image/upload/v1663463800/71775485da94421db356aa684e2f7b9eaf96f6fd39934a1af545f356fc0a3a23.png",
+		"attributes": [
+			{
+				"trait_type": "Artist",
+				"value": "Voerch"
+			},
+			{
+				"trait_type": "Background",
+				"value": "Rainbow"
+			}
+		],
+		"description": "To the power of 3.",
+		"token_id": 5,
+		"token_type": "ERC721",
+		"address": "0x0de9db04578a41a19341240495c6894f5fc3f550",
+		"listed": true,
+		"price": 0.5,
+		"payment_token": "0x0000000000000000000000000000000000000000",
+		"listing": {
+			"created_date": "2022-09-18T01:34:11.917635",
+			"closing_date": "2022-10-18T01:32:03",
+			"listing_time": 1663464723,
+			"expiration_time": 1666056723,
+			"order_hash": "0x649c11d3d661406047720a8958a06ced61f29a59c434b81335b9aacadf348f34",
+			"protocol_data": {
+				"parameters": {
+					"offerer": "0x9d0d6552288ba41aa852a9f3e11cc32a9b5254e0",
+					"offer": [
+						{
+							"itemType": 2,
+							"token": "0x0de9DB04578a41a19341240495C6894f5FC3f550",
+							"identifierOrCriteria": "5",
+							"startAmount": "1",
+							"endAmount": "1"
+						}
+					],
+					"consideration": [
+						{
+							"itemType": 0,
+							"token": "0x0000000000000000000000000000000000000000",
+							"identifierOrCriteria": "0",
+							"startAmount": "487500000000000000",
+							"endAmount": "487500000000000000",
+							"recipient": "0x9D0D6552288ba41AA852A9f3e11Cc32A9B5254e0"
+						},
+						{
+							"itemType": 0,
+							"token": "0x0000000000000000000000000000000000000000",
+							"identifierOrCriteria": "0",
+							"startAmount": "12500000000000000",
+							"endAmount": "12500000000000000",
+							"recipient": "0x0000a26b00c1F0DF003000390027140000fAa719"
+						}
+					],
+					"startTime": "1663464723",
+					"endTime": "1666056723",
+					"orderType": 0,
+					"zone": "0x0000000000000000000000000000000000000000",
+					"zoneHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+					"salt": "0x360c6ebe0000000000000000000000000000000000000000882e292cb6868874",
+					"conduitKey": "0x0000007b02230091a7ed01230072f7006a004d60a8d4e71d599b8104250f0000",
+					"totalOriginalConsiderationItems": 2,
+					"counter": 0
+				},
+				"signature": "0x33d881c805c5ee38fea4a013a7199865da4db4b2740eb75c6a43ebfd6aa1b90c573f63a8795a932ae138569d3cb7c02fb145751374c3a05c1fcd86c35d6599261b"
+			},
+			"protocol_address": "0x00000000006c3852cbef3e08e8df289169ede581",
+			"maker": {
+				"user": 223228,
+				"profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/20.png",
+				"address": "0x9d0d6552288ba41aa852a9f3e11cc32a9b5254e0",
+				"config": ""
+			},
+			"taker": null,
+			"current_price": "500000000000000000",
+			"maker_fees": [
+				{
+					"account": {
+						"user": null,
+						"profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/29.png",
+						"address": "0x0000a26b00c1f0df003000390027140000faa719",
+						"config": ""
+					},
+					"basis_points": "250"
+				}
+			],
+			"taker_fees": [],
+			"side": "ask",
+			"order_type": "basic",
+			"cancelled": false,
+			"finalized": false,
+			"marked_invalid": false,
+			"client_signature": "0x33d881c805c5ee38fea4a013a7199865da4db4b2740eb75c6a43ebfd6aa1b90c573f63a8795a932ae138569d3cb7c02fb145751374c3a05c1fcd86c35d6599261b",
+			"relay_id": "T3JkZXJWMlR5cGU6ODI3OTE1",
+			"criteria_proof": null,
+			"maker_asset_bundle": {
+				"assets": [
+					{
+						"id": 127385496,
+						"num_sales": 0,
+						"background_color": null,
+						"image_url": "https://lh3.googleusercontent.com/_aCrI8ylN9_QbiW_IZDx6uKpdXVeMdTQkyEQxh_N4ieFY1_f8acsBykrUGBEG5jMUeylU8QuANrF06TtEZbGwT6oqosZHWicd4E1dew",
+						"image_preview_url": "https://lh3.googleusercontent.com/_aCrI8ylN9_QbiW_IZDx6uKpdXVeMdTQkyEQxh_N4ieFY1_f8acsBykrUGBEG5jMUeylU8QuANrF06TtEZbGwT6oqosZHWicd4E1dew=s250",
+						"image_thumbnail_url": "https://lh3.googleusercontent.com/_aCrI8ylN9_QbiW_IZDx6uKpdXVeMdTQkyEQxh_N4ieFY1_f8acsBykrUGBEG5jMUeylU8QuANrF06TtEZbGwT6oqosZHWicd4E1dew=s128",
+						"image_original_url": "https://res.cloudinary.com/manifoldxyz/image/upload/v1663463800/71775485da94421db356aa684e2f7b9eaf96f6fd39934a1af545f356fc0a3a23.png",
+						"animation_url": null,
+						"animation_original_url": null,
+						"name": "Bull in Berlin #5",
+						"description": "To the power of 3.",
+						"external_link": "https://www.nftbull.app/",
+						"asset_contract": {
+							"address": "0x0de9db04578a41a19341240495c6894f5fc3f550",
+							"asset_contract_type": "non-fungible",
+							"created_date": "2022-09-18T00:57:51.541453",
+							"name": "InterBull @ETHBerlin",
+							"nft_version": "3.0",
+							"opensea_version": null,
+							"owner": 13126291,
+							"schema_name": "ERC721",
+							"symbol": "BULL",
+							"total_supply": null,
+							"description": "Bull has arrived in Berlin!",
+							"external_link": null,
+							"image_url": "https://i.seadn.io/gcs/files/94e4c4012e457b22b4886618fd65a347.png?w=500&auto=format",
+							"default_to_fiat": false,
+							"dev_buyer_fee_basis_points": 0,
+							"dev_seller_fee_basis_points": 0,
+							"only_proxied_transfers": false,
+							"opensea_buyer_fee_basis_points": 0,
+							"opensea_seller_fee_basis_points": 250,
+							"buyer_fee_basis_points": 0,
+							"seller_fee_basis_points": 250,
+							"payout_address": null
+						},
+						"permalink": "https://testnets.opensea.io/assets/goerli/0x0de9db04578a41a19341240495c6894f5fc3f550/5",
+						"collection": {
+							"banner_image_url": "https://i.seadn.io/gcs/files/d927e889c520884bb433c850e7a13bf4.png?w=500&auto=format",
+							"chat_url": null,
+							"created_date": "2022-09-18T00:57:51.911734",
+							"default_to_fiat": false,
+							"description": "Bull has arrived in Berlin!",
+							"dev_buyer_fee_basis_points": "0",
+							"dev_seller_fee_basis_points": "0",
+							"discord_url": null,
+							"display_data": {
+								"card_display_style": "cover"
+							},
+							"external_url": null,
+							"featured": false,
+							"featured_image_url": "https://i.seadn.io/gcs/files/0be5c4c0609bcb8b8e5f93b011843a1a.png?w=500&auto=format",
+							"hidden": false,
+							"safelist_request_status": "not_requested",
+							"image_url": "https://i.seadn.io/gcs/files/94e4c4012e457b22b4886618fd65a347.png?w=500&auto=format",
+							"is_subject_to_whitelist": false,
+							"large_image_url": "https://i.seadn.io/gcs/files/0be5c4c0609bcb8b8e5f93b011843a1a.png?w=500&auto=format",
+							"medium_username": null,
+							"name": "InterBull at ETHBerlin",
+							"only_proxied_transfers": false,
+							"opensea_buyer_fee_basis_points": "0",
+							"opensea_seller_fee_basis_points": "250",
+							"payout_address": null,
+							"require_email": false,
+							"short_description": null,
+							"slug": "interbull-ethberlin",
+							"telegram_url": null,
+							"twitter_username": null,
+							"instagram_username": null,
+							"wiki_url": null,
+							"is_nsfw": false,
+							"fees": {
+								"seller_fees": {},
+								"opensea_fees": {
+									"0x0000a26b00c1f0df003000390027140000faa719": 250
+								}
+							},
+							"is_rarity_enabled": false
+						},
+						"decimals": null,
+						"token_metadata": "https://studio.api.manifoldxyz.dev/asset_uploader/series/2282272943/metadata/full/5",
+						"is_nsfw": false,
+						"owner": {
+							"user": null,
+							"profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+							"address": "0x0000000000000000000000000000000000000000",
+							"config": ""
+						},
+						"token_id": "5"
+					}
+				],
+				"maker": null,
+				"slug": null,
+				"name": null,
+				"description": null,
+				"external_link": null,
+				"asset_contract": {
+					"address": "0x0de9db04578a41a19341240495c6894f5fc3f550",
+					"asset_contract_type": "non-fungible",
+					"created_date": "2022-09-18T00:57:51.541453",
+					"name": "InterBull @ETHBerlin",
+					"nft_version": "3.0",
+					"opensea_version": null,
+					"owner": 13126291,
+					"schema_name": "ERC721",
+					"symbol": "BULL",
+					"total_supply": null,
+					"description": "Bull has arrived in Berlin!",
+					"external_link": null,
+					"image_url": "https://i.seadn.io/gcs/files/94e4c4012e457b22b4886618fd65a347.png?w=500&auto=format",
+					"default_to_fiat": false,
+					"dev_buyer_fee_basis_points": 0,
+					"dev_seller_fee_basis_points": 0,
+					"only_proxied_transfers": false,
+					"opensea_buyer_fee_basis_points": 0,
+					"opensea_seller_fee_basis_points": 250,
+					"buyer_fee_basis_points": 0,
+					"seller_fee_basis_points": 250,
+					"payout_address": null
+				},
+				"permalink": "https://testnets.opensea.io/bundles/None",
+				"seaport_sell_orders": null
+			},
+			"taker_asset_bundle": {
+				"assets": [
+					{
+						"id": 1507176,
+						"num_sales": 0,
+						"background_color": null,
+						"image_url": "https://openseauserdata.com/files/6f8e2979d428180222796ff4a33ab929.svg",
+						"image_preview_url": "https://openseauserdata.com/files/6f8e2979d428180222796ff4a33ab929.svg",
+						"image_thumbnail_url": "https://openseauserdata.com/files/6f8e2979d428180222796ff4a33ab929.svg",
+						"image_original_url": "https://openseauserdata.com/files/6f8e2979d428180222796ff4a33ab929.svg",
+						"animation_url": null,
+						"animation_original_url": null,
+						"name": "Ether",
+						"description": "",
+						"external_link": null,
+						"asset_contract": {
+							"address": "0x0000000000000000000000000000000000000000",
+							"asset_contract_type": "fungible",
+							"created_date": "2021-03-12T15:05:22.062326",
+							"name": "Ether",
+							"nft_version": null,
+							"opensea_version": null,
+							"owner": null,
+							"schema_name": "ERC20",
+							"symbol": "ETH",
+							"total_supply": null,
+							"description": null,
+							"external_link": null,
+							"image_url": null,
+							"default_to_fiat": false,
+							"dev_buyer_fee_basis_points": 0,
+							"dev_seller_fee_basis_points": 0,
+							"only_proxied_transfers": false,
+							"opensea_buyer_fee_basis_points": 0,
+							"opensea_seller_fee_basis_points": 250,
+							"buyer_fee_basis_points": 0,
+							"seller_fee_basis_points": 250,
+							"payout_address": null
+						},
+						"permalink": "https://testnets.opensea.io/assets/goerli/0x0000000000000000000000000000000000000000/0",
+						"collection": {
+							"banner_image_url": null,
+							"chat_url": null,
+							"created_date": "2022-08-05T17:12:11.501958",
+							"default_to_fiat": false,
+							"description": null,
+							"dev_buyer_fee_basis_points": "0",
+							"dev_seller_fee_basis_points": "0",
+							"discord_url": null,
+							"display_data": {
+								"card_display_style": "contain",
+								"images": []
+							},
+							"external_url": null,
+							"featured": false,
+							"featured_image_url": null,
+							"hidden": true,
+							"safelist_request_status": "not_requested",
+							"image_url": null,
+							"is_subject_to_whitelist": false,
+							"large_image_url": null,
+							"medium_username": null,
+							"name": "OpenSea PaymentAssets",
+							"only_proxied_transfers": false,
+							"opensea_buyer_fee_basis_points": "0",
+							"opensea_seller_fee_basis_points": "250",
+							"payout_address": null,
+							"require_email": false,
+							"short_description": null,
+							"slug": "opensea-paymentassets",
+							"telegram_url": null,
+							"twitter_username": null,
+							"instagram_username": null,
+							"wiki_url": null,
+							"is_nsfw": false,
+							"fees": {
+								"seller_fees": {},
+								"opensea_fees": {
+									"0x0000a26b00c1f0df003000390027140000faa719": 250
+								}
+							},
+							"is_rarity_enabled": false
+						},
+						"decimals": 18,
+						"token_metadata": "",
+						"is_nsfw": false,
+						"owner": {
+							"user": null,
+							"profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+							"address": "0x0000000000000000000000000000000000000000",
+							"config": ""
+						},
+						"token_id": "0"
+					}
+				],
+				"maker": null,
+				"slug": null,
+				"name": null,
+				"description": null,
+				"external_link": null,
+				"asset_contract": {
+					"address": "0x0000000000000000000000000000000000000000",
+					"asset_contract_type": "fungible",
+					"created_date": "2021-03-12T15:05:22.062326",
+					"name": "Ether",
+					"nft_version": null,
+					"opensea_version": null,
+					"owner": null,
+					"schema_name": "ERC20",
+					"symbol": "ETH",
+					"total_supply": null,
+					"description": null,
+					"external_link": null,
+					"image_url": null,
+					"default_to_fiat": false,
+					"dev_buyer_fee_basis_points": 0,
+					"dev_seller_fee_basis_points": 0,
+					"only_proxied_transfers": false,
+					"opensea_buyer_fee_basis_points": 0,
+					"opensea_seller_fee_basis_points": 250,
+					"buyer_fee_basis_points": 0,
+					"seller_fee_basis_points": 250,
+					"payout_address": null
+				},
+				"permalink": "https://testnets.opensea.io/bundles/None",
+				"seaport_sell_orders": null
+			}
+		}
+	},
+	{
+		"chain": "ETH",
+		"media": [
+			{
+				"raw": "https://res.cloudinary.com/manifoldxyz/image/upload/v1663463800/615eddd4d349a26dffad465e7404890fe10445acb14a0110b3b102d34cd723f3.png",
+				"gateway": "https://res.cloudinary.com/manifoldxyz/image/upload/v1663463800/615eddd4d349a26dffad465e7404890fe10445acb14a0110b3b102d34cd723f3.png"
+			}
+		],
+		"title": "Bull in Berlin #6",
+		"token_uri_gateway": "https://studio.api.manifoldxyz.dev/asset_uploader/series/2282272943/metadata/full/6",
+		"token_uri_raw": "https://studio.api.manifoldxyz.dev/asset_uploader/series/2282272943/metadata/full/6",
+		"updated_at": "2022-09-18T02:16:19.920Z",
+		"name": "Bull in Berlin #6",
+		"image": "https://res.cloudinary.com/manifoldxyz/image/upload/v1663463800/615eddd4d349a26dffad465e7404890fe10445acb14a0110b3b102d34cd723f3.png",
+		"attributes": [
+			{
+				"trait_type": "Artist",
+				"value": "Voerch"
+			}
+		],
+		"description": "To the power of 3.",
+		"token_id": 6,
+		"token_type": "ERC721",
+		"address": "0x0de9db04578a41a19341240495c6894f5fc3f550",
+		"listed": true,
+		"price": 0.15,
+		"payment_token": "0x0000000000000000000000000000000000000000",
+		"listing": {
+			"created_date": "2022-09-18T01:34:24.165599",
+			"closing_date": "2022-10-18T01:32:15",
+			"listing_time": 1663464735,
+			"expiration_time": 1666056735,
+			"order_hash": "0xaec40994f172b790b0a78ae2f63b6c5ea0dc0e569a4db8e44cb0197f3663aeba",
+			"protocol_data": {
+				"parameters": {
+					"offerer": "0x9d0d6552288ba41aa852a9f3e11cc32a9b5254e0",
+					"offer": [
+						{
+							"itemType": 2,
+							"token": "0x0de9DB04578a41a19341240495C6894f5FC3f550",
+							"identifierOrCriteria": "6",
+							"startAmount": "1",
+							"endAmount": "1"
+						}
+					],
+					"consideration": [
+						{
+							"itemType": 0,
+							"token": "0x0000000000000000000000000000000000000000",
+							"identifierOrCriteria": "0",
+							"startAmount": "146250000000000000",
+							"endAmount": "146250000000000000",
+							"recipient": "0x9D0D6552288ba41AA852A9f3e11Cc32A9B5254e0"
+						},
+						{
+							"itemType": 0,
+							"token": "0x0000000000000000000000000000000000000000",
+							"identifierOrCriteria": "0",
+							"startAmount": "3750000000000000",
+							"endAmount": "3750000000000000",
+							"recipient": "0x0000a26b00c1F0DF003000390027140000fAa719"
+						}
+					],
+					"startTime": "1663464735",
+					"endTime": "1666056735",
+					"orderType": 0,
+					"zone": "0x0000000000000000000000000000000000000000",
+					"zoneHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+					"salt": "0x360c6ebe0000000000000000000000000000000000000000108a6ecd031e942f",
+					"conduitKey": "0x0000007b02230091a7ed01230072f7006a004d60a8d4e71d599b8104250f0000",
+					"totalOriginalConsiderationItems": 2,
+					"counter": 0
+				},
+				"signature": "0x63874a0285f4045eea3fb5fb33bc3b7cf23a8d9f223e656c3fffd87fc8d37b443f915765479c7c9f79c54efcd3801b26accd1594e46f7ffc97bdc6aa3cb23ea41c"
+			},
+			"protocol_address": "0x00000000006c3852cbef3e08e8df289169ede581",
+			"maker": {
+				"user": 223228,
+				"profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/20.png",
+				"address": "0x9d0d6552288ba41aa852a9f3e11cc32a9b5254e0",
+				"config": ""
+			},
+			"taker": null,
+			"current_price": "150000000000000000",
+			"maker_fees": [
+				{
+					"account": {
+						"user": null,
+						"profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/29.png",
+						"address": "0x0000a26b00c1f0df003000390027140000faa719",
+						"config": ""
+					},
+					"basis_points": "250"
+				}
+			],
+			"taker_fees": [],
+			"side": "ask",
+			"order_type": "basic",
+			"cancelled": false,
+			"finalized": false,
+			"marked_invalid": false,
+			"client_signature": "0x63874a0285f4045eea3fb5fb33bc3b7cf23a8d9f223e656c3fffd87fc8d37b443f915765479c7c9f79c54efcd3801b26accd1594e46f7ffc97bdc6aa3cb23ea41c",
+			"relay_id": "T3JkZXJWMlR5cGU6ODI3OTE2",
+			"criteria_proof": null,
+			"maker_asset_bundle": {
+				"assets": [
+					{
+						"id": 127385498,
+						"num_sales": 0,
+						"background_color": null,
+						"image_url": "https://lh3.googleusercontent.com/iVqK4VjEHiwvIRmfFxMqI9EsJiIrzRxmG7yn6tMfps3OXuy-4klydxOOz9bog_1D1sBfoHy7uU1DKLclXgH7qzSt_60cTIHBbmdX2A",
+						"image_preview_url": "https://lh3.googleusercontent.com/iVqK4VjEHiwvIRmfFxMqI9EsJiIrzRxmG7yn6tMfps3OXuy-4klydxOOz9bog_1D1sBfoHy7uU1DKLclXgH7qzSt_60cTIHBbmdX2A=s250",
+						"image_thumbnail_url": "https://lh3.googleusercontent.com/iVqK4VjEHiwvIRmfFxMqI9EsJiIrzRxmG7yn6tMfps3OXuy-4klydxOOz9bog_1D1sBfoHy7uU1DKLclXgH7qzSt_60cTIHBbmdX2A=s128",
+						"image_original_url": "https://res.cloudinary.com/manifoldxyz/image/upload/v1663463800/615eddd4d349a26dffad465e7404890fe10445acb14a0110b3b102d34cd723f3.png",
+						"animation_url": null,
+						"animation_original_url": null,
+						"name": "Bull in Berlin #6",
+						"description": "To the power of 3.",
+						"external_link": "https://www.nftbull.app/",
+						"asset_contract": {
+							"address": "0x0de9db04578a41a19341240495c6894f5fc3f550",
+							"asset_contract_type": "non-fungible",
+							"created_date": "2022-09-18T00:57:51.541453",
+							"name": "InterBull @ETHBerlin",
+							"nft_version": "3.0",
+							"opensea_version": null,
+							"owner": 13126291,
+							"schema_name": "ERC721",
+							"symbol": "BULL",
+							"total_supply": null,
+							"description": "Bull has arrived in Berlin!",
+							"external_link": null,
+							"image_url": "https://i.seadn.io/gcs/files/94e4c4012e457b22b4886618fd65a347.png?w=500&auto=format",
+							"default_to_fiat": false,
+							"dev_buyer_fee_basis_points": 0,
+							"dev_seller_fee_basis_points": 0,
+							"only_proxied_transfers": false,
+							"opensea_buyer_fee_basis_points": 0,
+							"opensea_seller_fee_basis_points": 250,
+							"buyer_fee_basis_points": 0,
+							"seller_fee_basis_points": 250,
+							"payout_address": null
+						},
+						"permalink": "https://testnets.opensea.io/assets/goerli/0x0de9db04578a41a19341240495c6894f5fc3f550/6",
+						"collection": {
+							"banner_image_url": "https://i.seadn.io/gcs/files/d927e889c520884bb433c850e7a13bf4.png?w=500&auto=format",
+							"chat_url": null,
+							"created_date": "2022-09-18T00:57:51.911734",
+							"default_to_fiat": false,
+							"description": "Bull has arrived in Berlin!",
+							"dev_buyer_fee_basis_points": "0",
+							"dev_seller_fee_basis_points": "0",
+							"discord_url": null,
+							"display_data": {
+								"card_display_style": "cover"
+							},
+							"external_url": null,
+							"featured": false,
+							"featured_image_url": "https://i.seadn.io/gcs/files/0be5c4c0609bcb8b8e5f93b011843a1a.png?w=500&auto=format",
+							"hidden": false,
+							"safelist_request_status": "not_requested",
+							"image_url": "https://i.seadn.io/gcs/files/94e4c4012e457b22b4886618fd65a347.png?w=500&auto=format",
+							"is_subject_to_whitelist": false,
+							"large_image_url": "https://i.seadn.io/gcs/files/0be5c4c0609bcb8b8e5f93b011843a1a.png?w=500&auto=format",
+							"medium_username": null,
+							"name": "InterBull at ETHBerlin",
+							"only_proxied_transfers": false,
+							"opensea_buyer_fee_basis_points": "0",
+							"opensea_seller_fee_basis_points": "250",
+							"payout_address": null,
+							"require_email": false,
+							"short_description": null,
+							"slug": "interbull-ethberlin",
+							"telegram_url": null,
+							"twitter_username": null,
+							"instagram_username": null,
+							"wiki_url": null,
+							"is_nsfw": false,
+							"fees": {
+								"seller_fees": {},
+								"opensea_fees": {
+									"0x0000a26b00c1f0df003000390027140000faa719": 250
+								}
+							},
+							"is_rarity_enabled": false
+						},
+						"decimals": null,
+						"token_metadata": "https://studio.api.manifoldxyz.dev/asset_uploader/series/2282272943/metadata/full/6",
+						"is_nsfw": false,
+						"owner": {
+							"user": null,
+							"profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+							"address": "0x0000000000000000000000000000000000000000",
+							"config": ""
+						},
+						"token_id": "6"
+					}
+				],
+				"maker": null,
+				"slug": null,
+				"name": null,
+				"description": null,
+				"external_link": null,
+				"asset_contract": {
+					"address": "0x0de9db04578a41a19341240495c6894f5fc3f550",
+					"asset_contract_type": "non-fungible",
+					"created_date": "2022-09-18T00:57:51.541453",
+					"name": "InterBull @ETHBerlin",
+					"nft_version": "3.0",
+					"opensea_version": null,
+					"owner": 13126291,
+					"schema_name": "ERC721",
+					"symbol": "BULL",
+					"total_supply": null,
+					"description": "Bull has arrived in Berlin!",
+					"external_link": null,
+					"image_url": "https://i.seadn.io/gcs/files/94e4c4012e457b22b4886618fd65a347.png?w=500&auto=format",
+					"default_to_fiat": false,
+					"dev_buyer_fee_basis_points": 0,
+					"dev_seller_fee_basis_points": 0,
+					"only_proxied_transfers": false,
+					"opensea_buyer_fee_basis_points": 0,
+					"opensea_seller_fee_basis_points": 250,
+					"buyer_fee_basis_points": 0,
+					"seller_fee_basis_points": 250,
+					"payout_address": null
+				},
+				"permalink": "https://testnets.opensea.io/bundles/None",
+				"seaport_sell_orders": null
+			},
+			"taker_asset_bundle": {
+				"assets": [
+					{
+						"id": 1507176,
+						"num_sales": 0,
+						"background_color": null,
+						"image_url": "https://openseauserdata.com/files/6f8e2979d428180222796ff4a33ab929.svg",
+						"image_preview_url": "https://openseauserdata.com/files/6f8e2979d428180222796ff4a33ab929.svg",
+						"image_thumbnail_url": "https://openseauserdata.com/files/6f8e2979d428180222796ff4a33ab929.svg",
+						"image_original_url": "https://openseauserdata.com/files/6f8e2979d428180222796ff4a33ab929.svg",
+						"animation_url": null,
+						"animation_original_url": null,
+						"name": "Ether",
+						"description": "",
+						"external_link": null,
+						"asset_contract": {
+							"address": "0x0000000000000000000000000000000000000000",
+							"asset_contract_type": "fungible",
+							"created_date": "2021-03-12T15:05:22.062326",
+							"name": "Ether",
+							"nft_version": null,
+							"opensea_version": null,
+							"owner": null,
+							"schema_name": "ERC20",
+							"symbol": "ETH",
+							"total_supply": null,
+							"description": null,
+							"external_link": null,
+							"image_url": null,
+							"default_to_fiat": false,
+							"dev_buyer_fee_basis_points": 0,
+							"dev_seller_fee_basis_points": 0,
+							"only_proxied_transfers": false,
+							"opensea_buyer_fee_basis_points": 0,
+							"opensea_seller_fee_basis_points": 250,
+							"buyer_fee_basis_points": 0,
+							"seller_fee_basis_points": 250,
+							"payout_address": null
+						},
+						"permalink": "https://testnets.opensea.io/assets/goerli/0x0000000000000000000000000000000000000000/0",
+						"collection": {
+							"banner_image_url": null,
+							"chat_url": null,
+							"created_date": "2022-08-05T17:12:11.501958",
+							"default_to_fiat": false,
+							"description": null,
+							"dev_buyer_fee_basis_points": "0",
+							"dev_seller_fee_basis_points": "0",
+							"discord_url": null,
+							"display_data": {
+								"card_display_style": "contain",
+								"images": []
+							},
+							"external_url": null,
+							"featured": false,
+							"featured_image_url": null,
+							"hidden": true,
+							"safelist_request_status": "not_requested",
+							"image_url": null,
+							"is_subject_to_whitelist": false,
+							"large_image_url": null,
+							"medium_username": null,
+							"name": "OpenSea PaymentAssets",
+							"only_proxied_transfers": false,
+							"opensea_buyer_fee_basis_points": "0",
+							"opensea_seller_fee_basis_points": "250",
+							"payout_address": null,
+							"require_email": false,
+							"short_description": null,
+							"slug": "opensea-paymentassets",
+							"telegram_url": null,
+							"twitter_username": null,
+							"instagram_username": null,
+							"wiki_url": null,
+							"is_nsfw": false,
+							"fees": {
+								"seller_fees": {},
+								"opensea_fees": {
+									"0x0000a26b00c1f0df003000390027140000faa719": 250
+								}
+							},
+							"is_rarity_enabled": false
+						},
+						"decimals": 18,
+						"token_metadata": "",
+						"is_nsfw": false,
+						"owner": {
+							"user": null,
+							"profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+							"address": "0x0000000000000000000000000000000000000000",
+							"config": ""
+						},
+						"token_id": "0"
+					}
+				],
+				"maker": null,
+				"slug": null,
+				"name": null,
+				"description": null,
+				"external_link": null,
+				"asset_contract": {
+					"address": "0x0000000000000000000000000000000000000000",
+					"asset_contract_type": "fungible",
+					"created_date": "2021-03-12T15:05:22.062326",
+					"name": "Ether",
+					"nft_version": null,
+					"opensea_version": null,
+					"owner": null,
+					"schema_name": "ERC20",
+					"symbol": "ETH",
+					"total_supply": null,
+					"description": null,
+					"external_link": null,
+					"image_url": null,
+					"default_to_fiat": false,
+					"dev_buyer_fee_basis_points": 0,
+					"dev_seller_fee_basis_points": 0,
+					"only_proxied_transfers": false,
+					"opensea_buyer_fee_basis_points": 0,
+					"opensea_seller_fee_basis_points": 250,
+					"buyer_fee_basis_points": 0,
+					"seller_fee_basis_points": 250,
+					"payout_address": null
+				},
+				"permalink": "https://testnets.opensea.io/bundles/None",
+				"seaport_sell_orders": null
+			}
+		}
+	},
+	{
+		"chain": "ETH",
+		"media": [
+			{
+				"raw": "https://res.cloudinary.com/manifoldxyz/image/upload/v1663463801/904a1eaf5829f9b02b888d8401a852cd142f9ecbca00c79e95d49ff241759404.png",
+				"gateway": "https://res.cloudinary.com/manifoldxyz/image/upload/v1663463801/904a1eaf5829f9b02b888d8401a852cd142f9ecbca00c79e95d49ff241759404.png"
+			}
+		],
+		"title": "Bull in Berlin #7",
+		"token_uri_gateway": "https://studio.api.manifoldxyz.dev/asset_uploader/series/2282272943/metadata/full/7",
+		"token_uri_raw": "https://studio.api.manifoldxyz.dev/asset_uploader/series/2282272943/metadata/full/7",
+		"updated_at": "2022-09-18T02:16:19.917Z",
+		"name": "Bull in Berlin #7",
+		"image": "https://res.cloudinary.com/manifoldxyz/image/upload/v1663463801/904a1eaf5829f9b02b888d8401a852cd142f9ecbca00c79e95d49ff241759404.png",
+		"attributes": [
+			{
+				"trait_type": "Artist",
+				"value": "Voerch"
+			},
+			{
+				"trait_type": "Background",
+				"value": "ETHBerlin"
+			}
+		],
+		"description": "To the power of 3.",
+		"token_id": 7,
+		"token_type": "ERC721",
+		"address": "0x0de9db04578a41a19341240495c6894f5fc3f550",
+		"listed": true,
+		"price": 1.0,
+		"payment_token": "0x0000000000000000000000000000000000000000",
+		"listing": {
+			"created_date": "2022-09-18T01:36:16.195240",
+			"closing_date": "2022-10-18T01:34:07",
+			"listing_time": 1663464847,
+			"expiration_time": 1666056847,
+			"order_hash": "0x62d94229146baed9d06aa047bfe48789cbdbb78243f333c5032dcbc5a442cc17",
+			"protocol_data": {
+				"parameters": {
+					"offerer": "0x9d0d6552288ba41aa852a9f3e11cc32a9b5254e0",
+					"offer": [
+						{
+							"itemType": 2,
+							"token": "0x0de9DB04578a41a19341240495C6894f5FC3f550",
+							"identifierOrCriteria": "7",
+							"startAmount": "1",
+							"endAmount": "1"
+						}
+					],
+					"consideration": [
+						{
+							"itemType": 0,
+							"token": "0x0000000000000000000000000000000000000000",
+							"identifierOrCriteria": "0",
+							"startAmount": "975000000000000000",
+							"endAmount": "975000000000000000",
+							"recipient": "0x9D0D6552288ba41AA852A9f3e11Cc32A9B5254e0"
+						},
+						{
+							"itemType": 0,
+							"token": "0x0000000000000000000000000000000000000000",
+							"identifierOrCriteria": "0",
+							"startAmount": "25000000000000000",
+							"endAmount": "25000000000000000",
+							"recipient": "0x0000a26b00c1F0DF003000390027140000fAa719"
+						}
+					],
+					"startTime": "1663464847",
+					"endTime": "1666056847",
+					"orderType": 0,
+					"zone": "0x0000000000000000000000000000000000000000",
+					"zoneHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+					"salt": "0x360c6ebe00000000000000000000000000000000000000002585aefab5632614",
+					"conduitKey": "0x0000007b02230091a7ed01230072f7006a004d60a8d4e71d599b8104250f0000",
+					"totalOriginalConsiderationItems": 2,
+					"counter": 0
+				},
+				"signature": "0x88ff221b45b2799f6b6a335a4c7e7f3f8e6231cf4c7d283c6f8f8fd9448c41b52e177b5841be6344f8028749f428170b9986faf1f0637cbba136e1381cdcff621c"
+			},
+			"protocol_address": "0x00000000006c3852cbef3e08e8df289169ede581",
+			"maker": {
+				"user": 223228,
+				"profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/20.png",
+				"address": "0x9d0d6552288ba41aa852a9f3e11cc32a9b5254e0",
+				"config": ""
+			},
+			"taker": null,
+			"current_price": "1000000000000000000",
+			"maker_fees": [
+				{
+					"account": {
+						"user": null,
+						"profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/29.png",
+						"address": "0x0000a26b00c1f0df003000390027140000faa719",
+						"config": ""
+					},
+					"basis_points": "250"
+				}
+			],
+			"taker_fees": [],
+			"side": "ask",
+			"order_type": "basic",
+			"cancelled": false,
+			"finalized": false,
+			"marked_invalid": false,
+			"client_signature": "0x88ff221b45b2799f6b6a335a4c7e7f3f8e6231cf4c7d283c6f8f8fd9448c41b52e177b5841be6344f8028749f428170b9986faf1f0637cbba136e1381cdcff621c",
+			"relay_id": "T3JkZXJWMlR5cGU6ODI3OTIw",
+			"criteria_proof": null,
+			"maker_asset_bundle": {
+				"assets": [
+					{
+						"id": 127385500,
+						"num_sales": 0,
+						"background_color": null,
+						"image_url": "https://lh3.googleusercontent.com/7sKhYdHF3E5LwFxgMjIWZNABkHgTjn2qERLwMy-qg68wOpWvrDfUPhjef5rMwuKU9C8et26VLJ_eDwbrxdz-h7npiwqlyUpApdQSLZw",
+						"image_preview_url": "https://lh3.googleusercontent.com/7sKhYdHF3E5LwFxgMjIWZNABkHgTjn2qERLwMy-qg68wOpWvrDfUPhjef5rMwuKU9C8et26VLJ_eDwbrxdz-h7npiwqlyUpApdQSLZw=s250",
+						"image_thumbnail_url": "https://lh3.googleusercontent.com/7sKhYdHF3E5LwFxgMjIWZNABkHgTjn2qERLwMy-qg68wOpWvrDfUPhjef5rMwuKU9C8et26VLJ_eDwbrxdz-h7npiwqlyUpApdQSLZw=s128",
+						"image_original_url": "https://res.cloudinary.com/manifoldxyz/image/upload/v1663463801/904a1eaf5829f9b02b888d8401a852cd142f9ecbca00c79e95d49ff241759404.png",
+						"animation_url": null,
+						"animation_original_url": null,
+						"name": "Bull in Berlin #7",
+						"description": "To the power of 3.",
+						"external_link": "https://www.nftbull.app/",
+						"asset_contract": {
+							"address": "0x0de9db04578a41a19341240495c6894f5fc3f550",
+							"asset_contract_type": "non-fungible",
+							"created_date": "2022-09-18T00:57:51.541453",
+							"name": "InterBull @ETHBerlin",
+							"nft_version": "3.0",
+							"opensea_version": null,
+							"owner": 13126291,
+							"schema_name": "ERC721",
+							"symbol": "BULL",
+							"total_supply": null,
+							"description": "Bull has arrived in Berlin!",
+							"external_link": null,
+							"image_url": "https://i.seadn.io/gcs/files/94e4c4012e457b22b4886618fd65a347.png?w=500&auto=format",
+							"default_to_fiat": false,
+							"dev_buyer_fee_basis_points": 0,
+							"dev_seller_fee_basis_points": 0,
+							"only_proxied_transfers": false,
+							"opensea_buyer_fee_basis_points": 0,
+							"opensea_seller_fee_basis_points": 250,
+							"buyer_fee_basis_points": 0,
+							"seller_fee_basis_points": 250,
+							"payout_address": null
+						},
+						"permalink": "https://testnets.opensea.io/assets/goerli/0x0de9db04578a41a19341240495c6894f5fc3f550/7",
+						"collection": {
+							"banner_image_url": "https://i.seadn.io/gcs/files/d927e889c520884bb433c850e7a13bf4.png?w=500&auto=format",
+							"chat_url": null,
+							"created_date": "2022-09-18T00:57:51.911734",
+							"default_to_fiat": false,
+							"description": "Bull has arrived in Berlin!",
+							"dev_buyer_fee_basis_points": "0",
+							"dev_seller_fee_basis_points": "0",
+							"discord_url": null,
+							"display_data": {
+								"card_display_style": "cover"
+							},
+							"external_url": null,
+							"featured": false,
+							"featured_image_url": "https://i.seadn.io/gcs/files/0be5c4c0609bcb8b8e5f93b011843a1a.png?w=500&auto=format",
+							"hidden": false,
+							"safelist_request_status": "not_requested",
+							"image_url": "https://i.seadn.io/gcs/files/94e4c4012e457b22b4886618fd65a347.png?w=500&auto=format",
+							"is_subject_to_whitelist": false,
+							"large_image_url": "https://i.seadn.io/gcs/files/0be5c4c0609bcb8b8e5f93b011843a1a.png?w=500&auto=format",
+							"medium_username": null,
+							"name": "InterBull at ETHBerlin",
+							"only_proxied_transfers": false,
+							"opensea_buyer_fee_basis_points": "0",
+							"opensea_seller_fee_basis_points": "250",
+							"payout_address": null,
+							"require_email": false,
+							"short_description": null,
+							"slug": "interbull-ethberlin",
+							"telegram_url": null,
+							"twitter_username": null,
+							"instagram_username": null,
+							"wiki_url": null,
+							"is_nsfw": false,
+							"fees": {
+								"seller_fees": {},
+								"opensea_fees": {
+									"0x0000a26b00c1f0df003000390027140000faa719": 250
+								}
+							},
+							"is_rarity_enabled": false
+						},
+						"decimals": null,
+						"token_metadata": "https://studio.api.manifoldxyz.dev/asset_uploader/series/2282272943/metadata/full/7",
+						"is_nsfw": false,
+						"owner": {
+							"user": null,
+							"profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+							"address": "0x0000000000000000000000000000000000000000",
+							"config": ""
+						},
+						"token_id": "7"
+					}
+				],
+				"maker": null,
+				"slug": null,
+				"name": null,
+				"description": null,
+				"external_link": null,
+				"asset_contract": {
+					"address": "0x0de9db04578a41a19341240495c6894f5fc3f550",
+					"asset_contract_type": "non-fungible",
+					"created_date": "2022-09-18T00:57:51.541453",
+					"name": "InterBull @ETHBerlin",
+					"nft_version": "3.0",
+					"opensea_version": null,
+					"owner": 13126291,
+					"schema_name": "ERC721",
+					"symbol": "BULL",
+					"total_supply": null,
+					"description": "Bull has arrived in Berlin!",
+					"external_link": null,
+					"image_url": "https://i.seadn.io/gcs/files/94e4c4012e457b22b4886618fd65a347.png?w=500&auto=format",
+					"default_to_fiat": false,
+					"dev_buyer_fee_basis_points": 0,
+					"dev_seller_fee_basis_points": 0,
+					"only_proxied_transfers": false,
+					"opensea_buyer_fee_basis_points": 0,
+					"opensea_seller_fee_basis_points": 250,
+					"buyer_fee_basis_points": 0,
+					"seller_fee_basis_points": 250,
+					"payout_address": null
+				},
+				"permalink": "https://testnets.opensea.io/bundles/None",
+				"seaport_sell_orders": null
+			},
+			"taker_asset_bundle": {
+				"assets": [
+					{
+						"id": 1507176,
+						"num_sales": 0,
+						"background_color": null,
+						"image_url": "https://openseauserdata.com/files/6f8e2979d428180222796ff4a33ab929.svg",
+						"image_preview_url": "https://openseauserdata.com/files/6f8e2979d428180222796ff4a33ab929.svg",
+						"image_thumbnail_url": "https://openseauserdata.com/files/6f8e2979d428180222796ff4a33ab929.svg",
+						"image_original_url": "https://openseauserdata.com/files/6f8e2979d428180222796ff4a33ab929.svg",
+						"animation_url": null,
+						"animation_original_url": null,
+						"name": "Ether",
+						"description": "",
+						"external_link": null,
+						"asset_contract": {
+							"address": "0x0000000000000000000000000000000000000000",
+							"asset_contract_type": "fungible",
+							"created_date": "2021-03-12T15:05:22.062326",
+							"name": "Ether",
+							"nft_version": null,
+							"opensea_version": null,
+							"owner": null,
+							"schema_name": "ERC20",
+							"symbol": "ETH",
+							"total_supply": null,
+							"description": null,
+							"external_link": null,
+							"image_url": null,
+							"default_to_fiat": false,
+							"dev_buyer_fee_basis_points": 0,
+							"dev_seller_fee_basis_points": 0,
+							"only_proxied_transfers": false,
+							"opensea_buyer_fee_basis_points": 0,
+							"opensea_seller_fee_basis_points": 250,
+							"buyer_fee_basis_points": 0,
+							"seller_fee_basis_points": 250,
+							"payout_address": null
+						},
+						"permalink": "https://testnets.opensea.io/assets/goerli/0x0000000000000000000000000000000000000000/0",
+						"collection": {
+							"banner_image_url": null,
+							"chat_url": null,
+							"created_date": "2022-08-05T17:12:11.501958",
+							"default_to_fiat": false,
+							"description": null,
+							"dev_buyer_fee_basis_points": "0",
+							"dev_seller_fee_basis_points": "0",
+							"discord_url": null,
+							"display_data": {
+								"card_display_style": "contain",
+								"images": []
+							},
+							"external_url": null,
+							"featured": false,
+							"featured_image_url": null,
+							"hidden": true,
+							"safelist_request_status": "not_requested",
+							"image_url": null,
+							"is_subject_to_whitelist": false,
+							"large_image_url": null,
+							"medium_username": null,
+							"name": "OpenSea PaymentAssets",
+							"only_proxied_transfers": false,
+							"opensea_buyer_fee_basis_points": "0",
+							"opensea_seller_fee_basis_points": "250",
+							"payout_address": null,
+							"require_email": false,
+							"short_description": null,
+							"slug": "opensea-paymentassets",
+							"telegram_url": null,
+							"twitter_username": null,
+							"instagram_username": null,
+							"wiki_url": null,
+							"is_nsfw": false,
+							"fees": {
+								"seller_fees": {},
+								"opensea_fees": {
+									"0x0000a26b00c1f0df003000390027140000faa719": 250
+								}
+							},
+							"is_rarity_enabled": false
+						},
+						"decimals": 18,
+						"token_metadata": "",
+						"is_nsfw": false,
+						"owner": {
+							"user": null,
+							"profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+							"address": "0x0000000000000000000000000000000000000000",
+							"config": ""
+						},
+						"token_id": "0"
+					}
+				],
+				"maker": null,
+				"slug": null,
+				"name": null,
+				"description": null,
+				"external_link": null,
+				"asset_contract": {
+					"address": "0x0000000000000000000000000000000000000000",
+					"asset_contract_type": "fungible",
+					"created_date": "2021-03-12T15:05:22.062326",
+					"name": "Ether",
+					"nft_version": null,
+					"opensea_version": null,
+					"owner": null,
+					"schema_name": "ERC20",
+					"symbol": "ETH",
+					"total_supply": null,
+					"description": null,
+					"external_link": null,
+					"image_url": null,
+					"default_to_fiat": false,
+					"dev_buyer_fee_basis_points": 0,
+					"dev_seller_fee_basis_points": 0,
+					"only_proxied_transfers": false,
+					"opensea_buyer_fee_basis_points": 0,
+					"opensea_seller_fee_basis_points": 250,
+					"buyer_fee_basis_points": 0,
+					"seller_fee_basis_points": 250,
+					"payout_address": null
+				},
+				"permalink": "https://testnets.opensea.io/bundles/None",
+				"seaport_sell_orders": null
+			}
+		}
+	},
+	{
+		"chain": "ETH",
+		"media": [
+			{
+				"raw": "https://res.cloudinary.com/manifoldxyz/image/upload/v1663463801/642af8f6e2e3d3f169c6dc225b5247ba6847657a20ca6537c02ff850319126be.png",
+				"gateway": "https://res.cloudinary.com/manifoldxyz/image/upload/v1663463801/642af8f6e2e3d3f169c6dc225b5247ba6847657a20ca6537c02ff850319126be.png"
+			}
+		],
+		"title": "Bull in Berlin #8",
+		"token_uri_gateway": "https://studio.api.manifoldxyz.dev/asset_uploader/series/2282272943/metadata/full/8",
+		"token_uri_raw": "https://studio.api.manifoldxyz.dev/asset_uploader/series/2282272943/metadata/full/8",
+		"updated_at": "2022-09-18T02:16:19.952Z",
+		"name": "Bull in Berlin #8",
+		"image": "https://res.cloudinary.com/manifoldxyz/image/upload/v1663463801/642af8f6e2e3d3f169c6dc225b5247ba6847657a20ca6537c02ff850319126be.png",
+		"attributes": [
+			{
+				"trait_type": "Artist",
+				"value": "Voerch"
+			},
+			{
+				"trait_type": "Background",
+				"value": "Solid"
+			}
+		],
+		"description": "To the power of 3.",
+		"token_id": 8,
+		"token_type": "ERC721",
+		"address": "0x0de9db04578a41a19341240495c6894f5fc3f550",
+		"listed": true,
+		"price": 0.1,
+		"payment_token": "0x0000000000000000000000000000000000000000",
+		"listing": {
+			"created_date": "2022-09-18T01:34:39.261012",
+			"closing_date": "2022-10-18T01:32:30",
+			"listing_time": 1663464750,
+			"expiration_time": 1666056750,
+			"order_hash": "0x78822bbe3af1d1c15cbfc3dc353f0efc9cdfe0e7fcf306d53beaba8d1f2b7585",
+			"protocol_data": {
+				"parameters": {
+					"offerer": "0x9d0d6552288ba41aa852a9f3e11cc32a9b5254e0",
+					"offer": [
+						{
+							"itemType": 2,
+							"token": "0x0de9DB04578a41a19341240495C6894f5FC3f550",
+							"identifierOrCriteria": "8",
+							"startAmount": "1",
+							"endAmount": "1"
+						}
+					],
+					"consideration": [
+						{
+							"itemType": 0,
+							"token": "0x0000000000000000000000000000000000000000",
+							"identifierOrCriteria": "0",
+							"startAmount": "97500000000000000",
+							"endAmount": "97500000000000000",
+							"recipient": "0x9D0D6552288ba41AA852A9f3e11Cc32A9B5254e0"
+						},
+						{
+							"itemType": 0,
+							"token": "0x0000000000000000000000000000000000000000",
+							"identifierOrCriteria": "0",
+							"startAmount": "2500000000000000",
+							"endAmount": "2500000000000000",
+							"recipient": "0x0000a26b00c1F0DF003000390027140000fAa719"
+						}
+					],
+					"startTime": "1663464750",
+					"endTime": "1666056750",
+					"orderType": 0,
+					"zone": "0x0000000000000000000000000000000000000000",
+					"zoneHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+					"salt": "0x360c6ebe0000000000000000000000000000000000000000e6e15dc207c08a92",
+					"conduitKey": "0x0000007b02230091a7ed01230072f7006a004d60a8d4e71d599b8104250f0000",
+					"totalOriginalConsiderationItems": 2,
+					"counter": 0
+				},
+				"signature": "0xf5a95b2cd07b39dc008f949797ac604a5273a377b3237ed78b6411e965c1bbe470ee476f0f29303df96ffb51334bfd69a327e8c076c452d51c6d9ffae7d130d71b"
+			},
+			"protocol_address": "0x00000000006c3852cbef3e08e8df289169ede581",
+			"maker": {
+				"user": 223228,
+				"profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/20.png",
+				"address": "0x9d0d6552288ba41aa852a9f3e11cc32a9b5254e0",
+				"config": ""
+			},
+			"taker": null,
+			"current_price": "100000000000000000",
+			"maker_fees": [
+				{
+					"account": {
+						"user": null,
+						"profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/29.png",
+						"address": "0x0000a26b00c1f0df003000390027140000faa719",
+						"config": ""
+					},
+					"basis_points": "250"
+				}
+			],
+			"taker_fees": [],
+			"side": "ask",
+			"order_type": "basic",
+			"cancelled": false,
+			"finalized": false,
+			"marked_invalid": false,
+			"client_signature": "0xf5a95b2cd07b39dc008f949797ac604a5273a377b3237ed78b6411e965c1bbe470ee476f0f29303df96ffb51334bfd69a327e8c076c452d51c6d9ffae7d130d71b",
+			"relay_id": "T3JkZXJWMlR5cGU6ODI3OTE3",
+			"criteria_proof": null,
+			"maker_asset_bundle": {
+				"assets": [
+					{
+						"id": 127385501,
+						"num_sales": 0,
+						"background_color": null,
+						"image_url": "https://lh3.googleusercontent.com/lJL5_y5f0HhZFTCert7-YuVZ2KqPOVJlTUIR_PL1j_ASZJ27pXYE9kZjod-JIhQOdnegofu038kfp13989P7S7BcubOhCa9e_DAFgg",
+						"image_preview_url": "https://lh3.googleusercontent.com/lJL5_y5f0HhZFTCert7-YuVZ2KqPOVJlTUIR_PL1j_ASZJ27pXYE9kZjod-JIhQOdnegofu038kfp13989P7S7BcubOhCa9e_DAFgg=s250",
+						"image_thumbnail_url": "https://lh3.googleusercontent.com/lJL5_y5f0HhZFTCert7-YuVZ2KqPOVJlTUIR_PL1j_ASZJ27pXYE9kZjod-JIhQOdnegofu038kfp13989P7S7BcubOhCa9e_DAFgg=s128",
+						"image_original_url": "https://res.cloudinary.com/manifoldxyz/image/upload/v1663463801/642af8f6e2e3d3f169c6dc225b5247ba6847657a20ca6537c02ff850319126be.png",
+						"animation_url": null,
+						"animation_original_url": null,
+						"name": "Bull in Berlin #8",
+						"description": "To the power of 3.",
+						"external_link": "https://www.nftbull.app/",
+						"asset_contract": {
+							"address": "0x0de9db04578a41a19341240495c6894f5fc3f550",
+							"asset_contract_type": "non-fungible",
+							"created_date": "2022-09-18T00:57:51.541453",
+							"name": "InterBull @ETHBerlin",
+							"nft_version": "3.0",
+							"opensea_version": null,
+							"owner": 13126291,
+							"schema_name": "ERC721",
+							"symbol": "BULL",
+							"total_supply": null,
+							"description": "Bull has arrived in Berlin!",
+							"external_link": null,
+							"image_url": "https://i.seadn.io/gcs/files/94e4c4012e457b22b4886618fd65a347.png?w=500&auto=format",
+							"default_to_fiat": false,
+							"dev_buyer_fee_basis_points": 0,
+							"dev_seller_fee_basis_points": 0,
+							"only_proxied_transfers": false,
+							"opensea_buyer_fee_basis_points": 0,
+							"opensea_seller_fee_basis_points": 250,
+							"buyer_fee_basis_points": 0,
+							"seller_fee_basis_points": 250,
+							"payout_address": null
+						},
+						"permalink": "https://testnets.opensea.io/assets/goerli/0x0de9db04578a41a19341240495c6894f5fc3f550/8",
+						"collection": {
+							"banner_image_url": "https://i.seadn.io/gcs/files/d927e889c520884bb433c850e7a13bf4.png?w=500&auto=format",
+							"chat_url": null,
+							"created_date": "2022-09-18T00:57:51.911734",
+							"default_to_fiat": false,
+							"description": "Bull has arrived in Berlin!",
+							"dev_buyer_fee_basis_points": "0",
+							"dev_seller_fee_basis_points": "0",
+							"discord_url": null,
+							"display_data": {
+								"card_display_style": "cover"
+							},
+							"external_url": null,
+							"featured": false,
+							"featured_image_url": "https://i.seadn.io/gcs/files/0be5c4c0609bcb8b8e5f93b011843a1a.png?w=500&auto=format",
+							"hidden": false,
+							"safelist_request_status": "not_requested",
+							"image_url": "https://i.seadn.io/gcs/files/94e4c4012e457b22b4886618fd65a347.png?w=500&auto=format",
+							"is_subject_to_whitelist": false,
+							"large_image_url": "https://i.seadn.io/gcs/files/0be5c4c0609bcb8b8e5f93b011843a1a.png?w=500&auto=format",
+							"medium_username": null,
+							"name": "InterBull at ETHBerlin",
+							"only_proxied_transfers": false,
+							"opensea_buyer_fee_basis_points": "0",
+							"opensea_seller_fee_basis_points": "250",
+							"payout_address": null,
+							"require_email": false,
+							"short_description": null,
+							"slug": "interbull-ethberlin",
+							"telegram_url": null,
+							"twitter_username": null,
+							"instagram_username": null,
+							"wiki_url": null,
+							"is_nsfw": false,
+							"fees": {
+								"seller_fees": {},
+								"opensea_fees": {
+									"0x0000a26b00c1f0df003000390027140000faa719": 250
+								}
+							},
+							"is_rarity_enabled": false
+						},
+						"decimals": null,
+						"token_metadata": "https://studio.api.manifoldxyz.dev/asset_uploader/series/2282272943/metadata/full/8",
+						"is_nsfw": false,
+						"owner": {
+							"user": null,
+							"profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+							"address": "0x0000000000000000000000000000000000000000",
+							"config": ""
+						},
+						"token_id": "8"
+					}
+				],
+				"maker": null,
+				"slug": null,
+				"name": null,
+				"description": null,
+				"external_link": null,
+				"asset_contract": {
+					"address": "0x0de9db04578a41a19341240495c6894f5fc3f550",
+					"asset_contract_type": "non-fungible",
+					"created_date": "2022-09-18T00:57:51.541453",
+					"name": "InterBull @ETHBerlin",
+					"nft_version": "3.0",
+					"opensea_version": null,
+					"owner": 13126291,
+					"schema_name": "ERC721",
+					"symbol": "BULL",
+					"total_supply": null,
+					"description": "Bull has arrived in Berlin!",
+					"external_link": null,
+					"image_url": "https://i.seadn.io/gcs/files/94e4c4012e457b22b4886618fd65a347.png?w=500&auto=format",
+					"default_to_fiat": false,
+					"dev_buyer_fee_basis_points": 0,
+					"dev_seller_fee_basis_points": 0,
+					"only_proxied_transfers": false,
+					"opensea_buyer_fee_basis_points": 0,
+					"opensea_seller_fee_basis_points": 250,
+					"buyer_fee_basis_points": 0,
+					"seller_fee_basis_points": 250,
+					"payout_address": null
+				},
+				"permalink": "https://testnets.opensea.io/bundles/None",
+				"seaport_sell_orders": null
+			},
+			"taker_asset_bundle": {
+				"assets": [
+					{
+						"id": 1507176,
+						"num_sales": 0,
+						"background_color": null,
+						"image_url": "https://openseauserdata.com/files/6f8e2979d428180222796ff4a33ab929.svg",
+						"image_preview_url": "https://openseauserdata.com/files/6f8e2979d428180222796ff4a33ab929.svg",
+						"image_thumbnail_url": "https://openseauserdata.com/files/6f8e2979d428180222796ff4a33ab929.svg",
+						"image_original_url": "https://openseauserdata.com/files/6f8e2979d428180222796ff4a33ab929.svg",
+						"animation_url": null,
+						"animation_original_url": null,
+						"name": "Ether",
+						"description": "",
+						"external_link": null,
+						"asset_contract": {
+							"address": "0x0000000000000000000000000000000000000000",
+							"asset_contract_type": "fungible",
+							"created_date": "2021-03-12T15:05:22.062326",
+							"name": "Ether",
+							"nft_version": null,
+							"opensea_version": null,
+							"owner": null,
+							"schema_name": "ERC20",
+							"symbol": "ETH",
+							"total_supply": null,
+							"description": null,
+							"external_link": null,
+							"image_url": null,
+							"default_to_fiat": false,
+							"dev_buyer_fee_basis_points": 0,
+							"dev_seller_fee_basis_points": 0,
+							"only_proxied_transfers": false,
+							"opensea_buyer_fee_basis_points": 0,
+							"opensea_seller_fee_basis_points": 250,
+							"buyer_fee_basis_points": 0,
+							"seller_fee_basis_points": 250,
+							"payout_address": null
+						},
+						"permalink": "https://testnets.opensea.io/assets/goerli/0x0000000000000000000000000000000000000000/0",
+						"collection": {
+							"banner_image_url": null,
+							"chat_url": null,
+							"created_date": "2022-08-05T17:12:11.501958",
+							"default_to_fiat": false,
+							"description": null,
+							"dev_buyer_fee_basis_points": "0",
+							"dev_seller_fee_basis_points": "0",
+							"discord_url": null,
+							"display_data": {
+								"card_display_style": "contain",
+								"images": []
+							},
+							"external_url": null,
+							"featured": false,
+							"featured_image_url": null,
+							"hidden": true,
+							"safelist_request_status": "not_requested",
+							"image_url": null,
+							"is_subject_to_whitelist": false,
+							"large_image_url": null,
+							"medium_username": null,
+							"name": "OpenSea PaymentAssets",
+							"only_proxied_transfers": false,
+							"opensea_buyer_fee_basis_points": "0",
+							"opensea_seller_fee_basis_points": "250",
+							"payout_address": null,
+							"require_email": false,
+							"short_description": null,
+							"slug": "opensea-paymentassets",
+							"telegram_url": null,
+							"twitter_username": null,
+							"instagram_username": null,
+							"wiki_url": null,
+							"is_nsfw": false,
+							"fees": {
+								"seller_fees": {},
+								"opensea_fees": {
+									"0x0000a26b00c1f0df003000390027140000faa719": 250
+								}
+							},
+							"is_rarity_enabled": false
+						},
+						"decimals": 18,
+						"token_metadata": "",
+						"is_nsfw": false,
+						"owner": {
+							"user": null,
+							"profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+							"address": "0x0000000000000000000000000000000000000000",
+							"config": ""
+						},
+						"token_id": "0"
+					}
+				],
+				"maker": null,
+				"slug": null,
+				"name": null,
+				"description": null,
+				"external_link": null,
+				"asset_contract": {
+					"address": "0x0000000000000000000000000000000000000000",
+					"asset_contract_type": "fungible",
+					"created_date": "2021-03-12T15:05:22.062326",
+					"name": "Ether",
+					"nft_version": null,
+					"opensea_version": null,
+					"owner": null,
+					"schema_name": "ERC20",
+					"symbol": "ETH",
+					"total_supply": null,
+					"description": null,
+					"external_link": null,
+					"image_url": null,
+					"default_to_fiat": false,
+					"dev_buyer_fee_basis_points": 0,
+					"dev_seller_fee_basis_points": 0,
+					"only_proxied_transfers": false,
+					"opensea_buyer_fee_basis_points": 0,
+					"opensea_seller_fee_basis_points": 250,
+					"buyer_fee_basis_points": 0,
+					"seller_fee_basis_points": 250,
+					"payout_address": null
+				},
+				"permalink": "https://testnets.opensea.io/bundles/None",
+				"seaport_sell_orders": null
+			}
+		}
+	},
+	{
+		"chain": "ETH",
+		"media": [
+			{
+				"raw": "https://res.cloudinary.com/manifoldxyz/image/upload/v1663463801/15e5118bf63a2b28b9c3da34e7631b0e93918cd4a0e953137b595e1c8edb0da8.png",
+				"gateway": "https://res.cloudinary.com/manifoldxyz/image/upload/v1663463801/15e5118bf63a2b28b9c3da34e7631b0e93918cd4a0e953137b595e1c8edb0da8.png"
+			}
+		],
+		"title": "Bull in Berlin #9",
+		"token_uri_gateway": "https://studio.api.manifoldxyz.dev/asset_uploader/series/2282272943/metadata/full/9",
+		"token_uri_raw": "https://studio.api.manifoldxyz.dev/asset_uploader/series/2282272943/metadata/full/9",
+		"updated_at": "2022-09-18T02:16:19.952Z",
+		"name": "Bull in Berlin #9",
+		"image": "https://res.cloudinary.com/manifoldxyz/image/upload/v1663463801/15e5118bf63a2b28b9c3da34e7631b0e93918cd4a0e953137b595e1c8edb0da8.png",
+		"attributes": [
+			{
+				"trait_type": "Artist",
+				"value": "Voerch"
+			},
+			{
+				"trait_type": "Background",
+				"value": "Chess"
+			}
+		],
+		"description": "To the power of 3.",
+		"token_id": 9,
+		"token_type": "ERC721",
+		"address": "0x0de9db04578a41a19341240495c6894f5fc3f550",
+		"listed": true,
+		"price": 0.15,
+		"payment_token": "0x0000000000000000000000000000000000000000",
+		"listing": {
+			"created_date": "2022-09-18T01:34:49.943305",
+			"closing_date": "2022-10-18T01:32:42",
+			"listing_time": 1663464762,
+			"expiration_time": 1666056762,
+			"order_hash": "0x9c6bca7ef8b4e983ab4358295ecdafe822d274a980e1195d48a24a2ab74eb4a1",
+			"protocol_data": {
+				"parameters": {
+					"offerer": "0x9d0d6552288ba41aa852a9f3e11cc32a9b5254e0",
+					"offer": [
+						{
+							"itemType": 2,
+							"token": "0x0de9DB04578a41a19341240495C6894f5FC3f550",
+							"identifierOrCriteria": "9",
+							"startAmount": "1",
+							"endAmount": "1"
+						}
+					],
+					"consideration": [
+						{
+							"itemType": 0,
+							"token": "0x0000000000000000000000000000000000000000",
+							"identifierOrCriteria": "0",
+							"startAmount": "146250000000000000",
+							"endAmount": "146250000000000000",
+							"recipient": "0x9D0D6552288ba41AA852A9f3e11Cc32A9B5254e0"
+						},
+						{
+							"itemType": 0,
+							"token": "0x0000000000000000000000000000000000000000",
+							"identifierOrCriteria": "0",
+							"startAmount": "3750000000000000",
+							"endAmount": "3750000000000000",
+							"recipient": "0x0000a26b00c1F0DF003000390027140000fAa719"
+						}
+					],
+					"startTime": "1663464762",
+					"endTime": "1666056762",
+					"orderType": 0,
+					"zone": "0x0000000000000000000000000000000000000000",
+					"zoneHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+					"salt": "0x360c6ebe00000000000000000000000000000000000000001add2a96155244fb",
+					"conduitKey": "0x0000007b02230091a7ed01230072f7006a004d60a8d4e71d599b8104250f0000",
+					"totalOriginalConsiderationItems": 2,
+					"counter": 0
+				},
+				"signature": "0x9f8ff205c3d5ef9d51e1187a09dca8b73862f8f9722f48df40c4b43f7bafd0cc18517b68dc62ff2e78390644ae6b7db40ae8a9d64496f7d9ffc7c9c6ce6306b51c"
+			},
+			"protocol_address": "0x00000000006c3852cbef3e08e8df289169ede581",
+			"maker": {
+				"user": 223228,
+				"profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/20.png",
+				"address": "0x9d0d6552288ba41aa852a9f3e11cc32a9b5254e0",
+				"config": ""
+			},
+			"taker": null,
+			"current_price": "150000000000000000",
+			"maker_fees": [
+				{
+					"account": {
+						"user": null,
+						"profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/29.png",
+						"address": "0x0000a26b00c1f0df003000390027140000faa719",
+						"config": ""
+					},
+					"basis_points": "250"
+				}
+			],
+			"taker_fees": [],
+			"side": "ask",
+			"order_type": "basic",
+			"cancelled": false,
+			"finalized": false,
+			"marked_invalid": false,
+			"client_signature": "0x9f8ff205c3d5ef9d51e1187a09dca8b73862f8f9722f48df40c4b43f7bafd0cc18517b68dc62ff2e78390644ae6b7db40ae8a9d64496f7d9ffc7c9c6ce6306b51c",
+			"relay_id": "T3JkZXJWMlR5cGU6ODI3OTE4",
+			"criteria_proof": null,
+			"maker_asset_bundle": {
+				"assets": [
+					{
+						"id": 127385502,
+						"num_sales": 0,
+						"background_color": null,
+						"image_url": "https://lh3.googleusercontent.com/FoPf7d8KCbseoIR3qZxhgHtv0NxcPM_1ngfe5tunWRUZm56W0njuEZa5Ru5vAyU-S9GV5LEAvVmGrs4AoBGCjzp9loyEgEQW_G2rbg",
+						"image_preview_url": "https://lh3.googleusercontent.com/FoPf7d8KCbseoIR3qZxhgHtv0NxcPM_1ngfe5tunWRUZm56W0njuEZa5Ru5vAyU-S9GV5LEAvVmGrs4AoBGCjzp9loyEgEQW_G2rbg=s250",
+						"image_thumbnail_url": "https://lh3.googleusercontent.com/FoPf7d8KCbseoIR3qZxhgHtv0NxcPM_1ngfe5tunWRUZm56W0njuEZa5Ru5vAyU-S9GV5LEAvVmGrs4AoBGCjzp9loyEgEQW_G2rbg=s128",
+						"image_original_url": "https://res.cloudinary.com/manifoldxyz/image/upload/v1663463801/15e5118bf63a2b28b9c3da34e7631b0e93918cd4a0e953137b595e1c8edb0da8.png",
+						"animation_url": null,
+						"animation_original_url": null,
+						"name": "Bull in Berlin #9",
+						"description": "To the power of 3.",
+						"external_link": "https://www.nftbull.app/",
+						"asset_contract": {
+							"address": "0x0de9db04578a41a19341240495c6894f5fc3f550",
+							"asset_contract_type": "non-fungible",
+							"created_date": "2022-09-18T00:57:51.541453",
+							"name": "InterBull @ETHBerlin",
+							"nft_version": "3.0",
+							"opensea_version": null,
+							"owner": 13126291,
+							"schema_name": "ERC721",
+							"symbol": "BULL",
+							"total_supply": null,
+							"description": "Bull has arrived in Berlin!",
+							"external_link": null,
+							"image_url": "https://i.seadn.io/gcs/files/94e4c4012e457b22b4886618fd65a347.png?w=500&auto=format",
+							"default_to_fiat": false,
+							"dev_buyer_fee_basis_points": 0,
+							"dev_seller_fee_basis_points": 0,
+							"only_proxied_transfers": false,
+							"opensea_buyer_fee_basis_points": 0,
+							"opensea_seller_fee_basis_points": 250,
+							"buyer_fee_basis_points": 0,
+							"seller_fee_basis_points": 250,
+							"payout_address": null
+						},
+						"permalink": "https://testnets.opensea.io/assets/goerli/0x0de9db04578a41a19341240495c6894f5fc3f550/9",
+						"collection": {
+							"banner_image_url": "https://i.seadn.io/gcs/files/d927e889c520884bb433c850e7a13bf4.png?w=500&auto=format",
+							"chat_url": null,
+							"created_date": "2022-09-18T00:57:51.911734",
+							"default_to_fiat": false,
+							"description": "Bull has arrived in Berlin!",
+							"dev_buyer_fee_basis_points": "0",
+							"dev_seller_fee_basis_points": "0",
+							"discord_url": null,
+							"display_data": {
+								"card_display_style": "cover"
+							},
+							"external_url": null,
+							"featured": false,
+							"featured_image_url": "https://i.seadn.io/gcs/files/0be5c4c0609bcb8b8e5f93b011843a1a.png?w=500&auto=format",
+							"hidden": false,
+							"safelist_request_status": "not_requested",
+							"image_url": "https://i.seadn.io/gcs/files/94e4c4012e457b22b4886618fd65a347.png?w=500&auto=format",
+							"is_subject_to_whitelist": false,
+							"large_image_url": "https://i.seadn.io/gcs/files/0be5c4c0609bcb8b8e5f93b011843a1a.png?w=500&auto=format",
+							"medium_username": null,
+							"name": "InterBull at ETHBerlin",
+							"only_proxied_transfers": false,
+							"opensea_buyer_fee_basis_points": "0",
+							"opensea_seller_fee_basis_points": "250",
+							"payout_address": null,
+							"require_email": false,
+							"short_description": null,
+							"slug": "interbull-ethberlin",
+							"telegram_url": null,
+							"twitter_username": null,
+							"instagram_username": null,
+							"wiki_url": null,
+							"is_nsfw": false,
+							"fees": {
+								"seller_fees": {},
+								"opensea_fees": {
+									"0x0000a26b00c1f0df003000390027140000faa719": 250
+								}
+							},
+							"is_rarity_enabled": false
+						},
+						"decimals": null,
+						"token_metadata": "https://studio.api.manifoldxyz.dev/asset_uploader/series/2282272943/metadata/full/9",
+						"is_nsfw": false,
+						"owner": {
+							"user": null,
+							"profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+							"address": "0x0000000000000000000000000000000000000000",
+							"config": ""
+						},
+						"token_id": "9"
+					}
+				],
+				"maker": null,
+				"slug": null,
+				"name": null,
+				"description": null,
+				"external_link": null,
+				"asset_contract": {
+					"address": "0x0de9db04578a41a19341240495c6894f5fc3f550",
+					"asset_contract_type": "non-fungible",
+					"created_date": "2022-09-18T00:57:51.541453",
+					"name": "InterBull @ETHBerlin",
+					"nft_version": "3.0",
+					"opensea_version": null,
+					"owner": 13126291,
+					"schema_name": "ERC721",
+					"symbol": "BULL",
+					"total_supply": null,
+					"description": "Bull has arrived in Berlin!",
+					"external_link": null,
+					"image_url": "https://i.seadn.io/gcs/files/94e4c4012e457b22b4886618fd65a347.png?w=500&auto=format",
+					"default_to_fiat": false,
+					"dev_buyer_fee_basis_points": 0,
+					"dev_seller_fee_basis_points": 0,
+					"only_proxied_transfers": false,
+					"opensea_buyer_fee_basis_points": 0,
+					"opensea_seller_fee_basis_points": 250,
+					"buyer_fee_basis_points": 0,
+					"seller_fee_basis_points": 250,
+					"payout_address": null
+				},
+				"permalink": "https://testnets.opensea.io/bundles/None",
+				"seaport_sell_orders": null
+			},
+			"taker_asset_bundle": {
+				"assets": [
+					{
+						"id": 1507176,
+						"num_sales": 0,
+						"background_color": null,
+						"image_url": "https://openseauserdata.com/files/6f8e2979d428180222796ff4a33ab929.svg",
+						"image_preview_url": "https://openseauserdata.com/files/6f8e2979d428180222796ff4a33ab929.svg",
+						"image_thumbnail_url": "https://openseauserdata.com/files/6f8e2979d428180222796ff4a33ab929.svg",
+						"image_original_url": "https://openseauserdata.com/files/6f8e2979d428180222796ff4a33ab929.svg",
+						"animation_url": null,
+						"animation_original_url": null,
+						"name": "Ether",
+						"description": "",
+						"external_link": null,
+						"asset_contract": {
+							"address": "0x0000000000000000000000000000000000000000",
+							"asset_contract_type": "fungible",
+							"created_date": "2021-03-12T15:05:22.062326",
+							"name": "Ether",
+							"nft_version": null,
+							"opensea_version": null,
+							"owner": null,
+							"schema_name": "ERC20",
+							"symbol": "ETH",
+							"total_supply": null,
+							"description": null,
+							"external_link": null,
+							"image_url": null,
+							"default_to_fiat": false,
+							"dev_buyer_fee_basis_points": 0,
+							"dev_seller_fee_basis_points": 0,
+							"only_proxied_transfers": false,
+							"opensea_buyer_fee_basis_points": 0,
+							"opensea_seller_fee_basis_points": 250,
+							"buyer_fee_basis_points": 0,
+							"seller_fee_basis_points": 250,
+							"payout_address": null
+						},
+						"permalink": "https://testnets.opensea.io/assets/goerli/0x0000000000000000000000000000000000000000/0",
+						"collection": {
+							"banner_image_url": null,
+							"chat_url": null,
+							"created_date": "2022-08-05T17:12:11.501958",
+							"default_to_fiat": false,
+							"description": null,
+							"dev_buyer_fee_basis_points": "0",
+							"dev_seller_fee_basis_points": "0",
+							"discord_url": null,
+							"display_data": {
+								"card_display_style": "contain",
+								"images": []
+							},
+							"external_url": null,
+							"featured": false,
+							"featured_image_url": null,
+							"hidden": true,
+							"safelist_request_status": "not_requested",
+							"image_url": null,
+							"is_subject_to_whitelist": false,
+							"large_image_url": null,
+							"medium_username": null,
+							"name": "OpenSea PaymentAssets",
+							"only_proxied_transfers": false,
+							"opensea_buyer_fee_basis_points": "0",
+							"opensea_seller_fee_basis_points": "250",
+							"payout_address": null,
+							"require_email": false,
+							"short_description": null,
+							"slug": "opensea-paymentassets",
+							"telegram_url": null,
+							"twitter_username": null,
+							"instagram_username": null,
+							"wiki_url": null,
+							"is_nsfw": false,
+							"fees": {
+								"seller_fees": {},
+								"opensea_fees": {
+									"0x0000a26b00c1f0df003000390027140000faa719": 250
+								}
+							},
+							"is_rarity_enabled": false
+						},
+						"decimals": 18,
+						"token_metadata": "",
+						"is_nsfw": false,
+						"owner": {
+							"user": null,
+							"profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+							"address": "0x0000000000000000000000000000000000000000",
+							"config": ""
+						},
+						"token_id": "0"
+					}
+				],
+				"maker": null,
+				"slug": null,
+				"name": null,
+				"description": null,
+				"external_link": null,
+				"asset_contract": {
+					"address": "0x0000000000000000000000000000000000000000",
+					"asset_contract_type": "fungible",
+					"created_date": "2021-03-12T15:05:22.062326",
+					"name": "Ether",
+					"nft_version": null,
+					"opensea_version": null,
+					"owner": null,
+					"schema_name": "ERC20",
+					"symbol": "ETH",
+					"total_supply": null,
+					"description": null,
+					"external_link": null,
+					"image_url": null,
+					"default_to_fiat": false,
+					"dev_buyer_fee_basis_points": 0,
+					"dev_seller_fee_basis_points": 0,
+					"only_proxied_transfers": false,
+					"opensea_buyer_fee_basis_points": 0,
+					"opensea_seller_fee_basis_points": 250,
+					"buyer_fee_basis_points": 0,
+					"seller_fee_basis_points": 250,
+					"payout_address": null
+				},
+				"permalink": "https://testnets.opensea.io/bundles/None",
+				"seaport_sell_orders": null
+			}
+		}
+	},
+	{
+		"chain": "ETH",
+		"media": [
+			{
+				"raw": "https://res.cloudinary.com/manifoldxyz/image/upload/v1663463801/93ea1df3de68c7c1b93878b8f4176bbcc253b21d1e18f0b57424132f81d45a64.png",
+				"gateway": "https://res.cloudinary.com/manifoldxyz/image/upload/v1663463801/93ea1df3de68c7c1b93878b8f4176bbcc253b21d1e18f0b57424132f81d45a64.png"
+			}
+		],
+		"title": "Bull in Berlin #10",
+		"token_uri_gateway": "https://studio.api.manifoldxyz.dev/asset_uploader/series/2282272943/metadata/full/10",
+		"token_uri_raw": "https://studio.api.manifoldxyz.dev/asset_uploader/series/2282272943/metadata/full/10",
+		"updated_at": "2022-09-18T02:16:19.937Z",
+		"name": "Bull in Berlin #10",
+		"image": "https://res.cloudinary.com/manifoldxyz/image/upload/v1663463801/93ea1df3de68c7c1b93878b8f4176bbcc253b21d1e18f0b57424132f81d45a64.png",
+		"attributes": [
+			{
+				"trait_type": "Artist",
+				"value": "Voerch"
+			},
+			{
+				"trait_type": "Background",
+				"value": "Solid"
+			}
+		],
+		"description": "To the power of 3.",
+		"token_id": 10,
+		"token_type": "ERC721",
+		"address": "0x0de9db04578a41a19341240495c6894f5fc3f550",
+		"listed": true,
+		"price": 0.05,
+		"payment_token": "0x0000000000000000000000000000000000000000",
+		"listing": {
+			"created_date": "2022-09-18T01:35:06.178432",
+			"closing_date": "2022-10-18T01:32:52",
+			"listing_time": 1663464772,
+			"expiration_time": 1666056772,
+			"order_hash": "0x0780006c5d3a60eedc2fa02da03b22094bba188d289571804f2157be2693e4f9",
+			"protocol_data": {
+				"parameters": {
+					"offerer": "0x9d0d6552288ba41aa852a9f3e11cc32a9b5254e0",
+					"offer": [
+						{
+							"itemType": 2,
+							"token": "0x0de9DB04578a41a19341240495C6894f5FC3f550",
+							"identifierOrCriteria": "10",
+							"startAmount": "1",
+							"endAmount": "1"
+						}
+					],
+					"consideration": [
+						{
+							"itemType": 0,
+							"token": "0x0000000000000000000000000000000000000000",
+							"identifierOrCriteria": "0",
+							"startAmount": "48750000000000000",
+							"endAmount": "48750000000000000",
+							"recipient": "0x9D0D6552288ba41AA852A9f3e11Cc32A9B5254e0"
+						},
+						{
+							"itemType": 0,
+							"token": "0x0000000000000000000000000000000000000000",
+							"identifierOrCriteria": "0",
+							"startAmount": "1250000000000000",
+							"endAmount": "1250000000000000",
+							"recipient": "0x0000a26b00c1F0DF003000390027140000fAa719"
+						}
+					],
+					"startTime": "1663464772",
+					"endTime": "1666056772",
+					"orderType": 0,
+					"zone": "0x0000000000000000000000000000000000000000",
+					"zoneHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+					"salt": "0x360c6ebe0000000000000000000000000000000000000000ddd62fab596ead94",
+					"conduitKey": "0x0000007b02230091a7ed01230072f7006a004d60a8d4e71d599b8104250f0000",
+					"totalOriginalConsiderationItems": 2,
+					"counter": 0
+				},
+				"signature": "0x6a24d63a5bb8f5241ab342585ec6ef39307293513ab2f6e99d95ffe5115e194841bf54990baf80598d5a123ac2270496e78ff4632a222acd49c4f6b29db0acc51c"
+			},
+			"protocol_address": "0x00000000006c3852cbef3e08e8df289169ede581",
+			"maker": {
+				"user": 223228,
+				"profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/20.png",
+				"address": "0x9d0d6552288ba41aa852a9f3e11cc32a9b5254e0",
+				"config": ""
+			},
+			"taker": null,
+			"current_price": "50000000000000000",
+			"maker_fees": [
+				{
+					"account": {
+						"user": null,
+						"profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/29.png",
+						"address": "0x0000a26b00c1f0df003000390027140000faa719",
+						"config": ""
+					},
+					"basis_points": "250"
+				}
+			],
+			"taker_fees": [],
+			"side": "ask",
+			"order_type": "basic",
+			"cancelled": false,
+			"finalized": false,
+			"marked_invalid": false,
+			"client_signature": "0x6a24d63a5bb8f5241ab342585ec6ef39307293513ab2f6e99d95ffe5115e194841bf54990baf80598d5a123ac2270496e78ff4632a222acd49c4f6b29db0acc51c",
+			"relay_id": "T3JkZXJWMlR5cGU6ODI3OTE5",
+			"criteria_proof": null,
+			"maker_asset_bundle": {
+				"assets": [
+					{
+						"id": 127385503,
+						"num_sales": 0,
+						"background_color": null,
+						"image_url": "https://lh3.googleusercontent.com/4PMZE_WBb_i4zOuPZOMFIj7472YAtxA05z0yTTghs_fNAsWjBlm2U_6Xaft7aMqt17LQ5g-EK2BVY4TkWB1HRdoFg-40brpC2VNL",
+						"image_preview_url": "https://lh3.googleusercontent.com/4PMZE_WBb_i4zOuPZOMFIj7472YAtxA05z0yTTghs_fNAsWjBlm2U_6Xaft7aMqt17LQ5g-EK2BVY4TkWB1HRdoFg-40brpC2VNL=s250",
+						"image_thumbnail_url": "https://lh3.googleusercontent.com/4PMZE_WBb_i4zOuPZOMFIj7472YAtxA05z0yTTghs_fNAsWjBlm2U_6Xaft7aMqt17LQ5g-EK2BVY4TkWB1HRdoFg-40brpC2VNL=s128",
+						"image_original_url": "https://res.cloudinary.com/manifoldxyz/image/upload/v1663463801/93ea1df3de68c7c1b93878b8f4176bbcc253b21d1e18f0b57424132f81d45a64.png",
+						"animation_url": null,
+						"animation_original_url": null,
+						"name": "Bull in Berlin #10",
+						"description": "To the power of 3.",
+						"external_link": null,
+						"asset_contract": {
+							"address": "0x0de9db04578a41a19341240495c6894f5fc3f550",
+							"asset_contract_type": "non-fungible",
+							"created_date": "2022-09-18T00:57:51.541453",
+							"name": "InterBull @ETHBerlin",
+							"nft_version": "3.0",
+							"opensea_version": null,
+							"owner": 13126291,
+							"schema_name": "ERC721",
+							"symbol": "BULL",
+							"total_supply": null,
+							"description": "Bull has arrived in Berlin!",
+							"external_link": null,
+							"image_url": "https://i.seadn.io/gcs/files/94e4c4012e457b22b4886618fd65a347.png?w=500&auto=format",
+							"default_to_fiat": false,
+							"dev_buyer_fee_basis_points": 0,
+							"dev_seller_fee_basis_points": 0,
+							"only_proxied_transfers": false,
+							"opensea_buyer_fee_basis_points": 0,
+							"opensea_seller_fee_basis_points": 250,
+							"buyer_fee_basis_points": 0,
+							"seller_fee_basis_points": 250,
+							"payout_address": null
+						},
+						"permalink": "https://testnets.opensea.io/assets/goerli/0x0de9db04578a41a19341240495c6894f5fc3f550/10",
+						"collection": {
+							"banner_image_url": "https://i.seadn.io/gcs/files/d927e889c520884bb433c850e7a13bf4.png?w=500&auto=format",
+							"chat_url": null,
+							"created_date": "2022-09-18T00:57:51.911734",
+							"default_to_fiat": false,
+							"description": "Bull has arrived in Berlin!",
+							"dev_buyer_fee_basis_points": "0",
+							"dev_seller_fee_basis_points": "0",
+							"discord_url": null,
+							"display_data": {
+								"card_display_style": "cover"
+							},
+							"external_url": null,
+							"featured": false,
+							"featured_image_url": "https://i.seadn.io/gcs/files/0be5c4c0609bcb8b8e5f93b011843a1a.png?w=500&auto=format",
+							"hidden": false,
+							"safelist_request_status": "not_requested",
+							"image_url": "https://i.seadn.io/gcs/files/94e4c4012e457b22b4886618fd65a347.png?w=500&auto=format",
+							"is_subject_to_whitelist": false,
+							"large_image_url": "https://i.seadn.io/gcs/files/0be5c4c0609bcb8b8e5f93b011843a1a.png?w=500&auto=format",
+							"medium_username": null,
+							"name": "InterBull at ETHBerlin",
+							"only_proxied_transfers": false,
+							"opensea_buyer_fee_basis_points": "0",
+							"opensea_seller_fee_basis_points": "250",
+							"payout_address": null,
+							"require_email": false,
+							"short_description": null,
+							"slug": "interbull-ethberlin",
+							"telegram_url": null,
+							"twitter_username": null,
+							"instagram_username": null,
+							"wiki_url": null,
+							"is_nsfw": false,
+							"fees": {
+								"seller_fees": {},
+								"opensea_fees": {
+									"0x0000a26b00c1f0df003000390027140000faa719": 250
+								}
+							},
+							"is_rarity_enabled": false
+						},
+						"decimals": null,
+						"token_metadata": "https://studio.api.manifoldxyz.dev/asset_uploader/series/2282272943/metadata/full/10",
+						"is_nsfw": false,
+						"owner": {
+							"user": null,
+							"profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+							"address": "0x0000000000000000000000000000000000000000",
+							"config": ""
+						},
+						"token_id": "10"
+					}
+				],
+				"maker": null,
+				"slug": null,
+				"name": null,
+				"description": null,
+				"external_link": null,
+				"asset_contract": {
+					"address": "0x0de9db04578a41a19341240495c6894f5fc3f550",
+					"asset_contract_type": "non-fungible",
+					"created_date": "2022-09-18T00:57:51.541453",
+					"name": "InterBull @ETHBerlin",
+					"nft_version": "3.0",
+					"opensea_version": null,
+					"owner": 13126291,
+					"schema_name": "ERC721",
+					"symbol": "BULL",
+					"total_supply": null,
+					"description": "Bull has arrived in Berlin!",
+					"external_link": null,
+					"image_url": "https://i.seadn.io/gcs/files/94e4c4012e457b22b4886618fd65a347.png?w=500&auto=format",
+					"default_to_fiat": false,
+					"dev_buyer_fee_basis_points": 0,
+					"dev_seller_fee_basis_points": 0,
+					"only_proxied_transfers": false,
+					"opensea_buyer_fee_basis_points": 0,
+					"opensea_seller_fee_basis_points": 250,
+					"buyer_fee_basis_points": 0,
+					"seller_fee_basis_points": 250,
+					"payout_address": null
+				},
+				"permalink": "https://testnets.opensea.io/bundles/None",
+				"seaport_sell_orders": null
+			},
+			"taker_asset_bundle": {
+				"assets": [
+					{
+						"id": 1507176,
+						"num_sales": 0,
+						"background_color": null,
+						"image_url": "https://openseauserdata.com/files/6f8e2979d428180222796ff4a33ab929.svg",
+						"image_preview_url": "https://openseauserdata.com/files/6f8e2979d428180222796ff4a33ab929.svg",
+						"image_thumbnail_url": "https://openseauserdata.com/files/6f8e2979d428180222796ff4a33ab929.svg",
+						"image_original_url": "https://openseauserdata.com/files/6f8e2979d428180222796ff4a33ab929.svg",
+						"animation_url": null,
+						"animation_original_url": null,
+						"name": "Ether",
+						"description": "",
+						"external_link": null,
+						"asset_contract": {
+							"address": "0x0000000000000000000000000000000000000000",
+							"asset_contract_type": "fungible",
+							"created_date": "2021-03-12T15:05:22.062326",
+							"name": "Ether",
+							"nft_version": null,
+							"opensea_version": null,
+							"owner": null,
+							"schema_name": "ERC20",
+							"symbol": "ETH",
+							"total_supply": null,
+							"description": null,
+							"external_link": null,
+							"image_url": null,
+							"default_to_fiat": false,
+							"dev_buyer_fee_basis_points": 0,
+							"dev_seller_fee_basis_points": 0,
+							"only_proxied_transfers": false,
+							"opensea_buyer_fee_basis_points": 0,
+							"opensea_seller_fee_basis_points": 250,
+							"buyer_fee_basis_points": 0,
+							"seller_fee_basis_points": 250,
+							"payout_address": null
+						},
+						"permalink": "https://testnets.opensea.io/assets/goerli/0x0000000000000000000000000000000000000000/0",
+						"collection": {
+							"banner_image_url": null,
+							"chat_url": null,
+							"created_date": "2022-08-05T17:12:11.501958",
+							"default_to_fiat": false,
+							"description": null,
+							"dev_buyer_fee_basis_points": "0",
+							"dev_seller_fee_basis_points": "0",
+							"discord_url": null,
+							"display_data": {
+								"card_display_style": "contain",
+								"images": []
+							},
+							"external_url": null,
+							"featured": false,
+							"featured_image_url": null,
+							"hidden": true,
+							"safelist_request_status": "not_requested",
+							"image_url": null,
+							"is_subject_to_whitelist": false,
+							"large_image_url": null,
+							"medium_username": null,
+							"name": "OpenSea PaymentAssets",
+							"only_proxied_transfers": false,
+							"opensea_buyer_fee_basis_points": "0",
+							"opensea_seller_fee_basis_points": "250",
+							"payout_address": null,
+							"require_email": false,
+							"short_description": null,
+							"slug": "opensea-paymentassets",
+							"telegram_url": null,
+							"twitter_username": null,
+							"instagram_username": null,
+							"wiki_url": null,
+							"is_nsfw": false,
+							"fees": {
+								"seller_fees": {},
+								"opensea_fees": {
+									"0x0000a26b00c1f0df003000390027140000faa719": 250
+								}
+							},
+							"is_rarity_enabled": false
+						},
+						"decimals": 18,
+						"token_metadata": "",
+						"is_nsfw": false,
+						"owner": {
+							"user": null,
+							"profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/1.png",
+							"address": "0x0000000000000000000000000000000000000000",
+							"config": ""
+						},
+						"token_id": "0"
+					}
+				],
+				"maker": null,
+				"slug": null,
+				"name": null,
+				"description": null,
+				"external_link": null,
+				"asset_contract": {
+					"address": "0x0000000000000000000000000000000000000000",
+					"asset_contract_type": "fungible",
+					"created_date": "2021-03-12T15:05:22.062326",
+					"name": "Ether",
+					"nft_version": null,
+					"opensea_version": null,
+					"owner": null,
+					"schema_name": "ERC20",
+					"symbol": "ETH",
+					"total_supply": null,
+					"description": null,
+					"external_link": null,
+					"image_url": null,
+					"default_to_fiat": false,
+					"dev_buyer_fee_basis_points": 0,
+					"dev_seller_fee_basis_points": 0,
+					"only_proxied_transfers": false,
+					"opensea_buyer_fee_basis_points": 0,
+					"opensea_seller_fee_basis_points": 250,
+					"buyer_fee_basis_points": 0,
+					"seller_fee_basis_points": 250,
+					"payout_address": null
+				},
+				"permalink": "https://testnets.opensea.io/bundles/None",
+				"seaport_sell_orders": null
+			}
+		}
+	}
+]

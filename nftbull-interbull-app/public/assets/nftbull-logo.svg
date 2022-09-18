@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a"
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1885.96 1938.79">
+    <defs>
+        <style>.b{fill:none;}.b,.c{stroke:#000;stroke-miterlimit:10;stroke-width:73px;}.d{font-family:Poppins;font-size:541.59px;letter-spacing:.05em;}</style>
+    </defs>
+    <text class="d" transform="translate(0 461.7)">
+        <tspan x="0" y="0">NFT</tspan>
+        <tspan x="0" y="535.37">Bull</tspan>
+    </text>
+    <line class="b" x1="1167.82" y1="118.34" x2="1885.94" y2="117.83"/>
+    <line class="c" x1="1848.84" y1="140.19" x2="1848.33" y2="1938.78"/>
+    <line class="b" x1="1884.92" y1="1901.68" x2="33.48" y2="1901.68"/>
+    <line class="b" x1="70.58" y1="1938.27" x2="70.58" y2="1074.3"/>
+</svg>
